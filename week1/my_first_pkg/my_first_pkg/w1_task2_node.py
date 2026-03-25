@@ -7,10 +7,10 @@ class Task2Node(Node):
     def __init__(self):
         super().__init__('w1_task2_node')
 
-        counter_dir = os.path.join(os.path.expanduser('~'), 'ros2_ws', 'data')
+        counter_dir = os.path.join(os.path.expanduser('~'), 'MR_Lab_MuhammadAnss','ros2_ws', 'data')
         os.makedirs(counter_dir, exist_ok=True)
         counter_file = os.path.join(counter_dir, 'mr_lab_w1_task2_run_count.txt')
-
+        self.get_logger().info(f'Counter file: {counter_file}')
         try:
             with open(counter_file, 'r') as f:
                 count = int(f.read().strip())
