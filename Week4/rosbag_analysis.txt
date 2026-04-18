@@ -1,0 +1,49 @@
+=======================================================
+  TRAJECTORY DATA EXTRACTION - ANALYSIS REPORT
+=======================================================
+
+1. RECORDING SUMMARY
+--------------------
+Recording duration     : 10.59 s
+Total messages         : 127
+Average publish rate   : 12.0 Hz
+Topic recorded         : /turtle1/cmd_vel (geometry_msgs/msg/Twist)
+
+2. VELOCITY STATISTICS
+----------------------
+Metric                | Linear speed |v| | Angular speed |w|
+----------------------|-------------------|--------------------
+Average               | 1.307 m/s         | 0.693 rad/s
+Maximum               | 2.000 m/s         | 2.000 rad/s
+
+3. COMMAND BREAKDOWN
+--------------------
+Command type           | Count | Percentage
+-----------------------|-------|-----------
+Forward (linear_x > 0) | 83    | 65.4 %
+Turn only (ang_z != 0) | 44    | 34.6 %
+Idle (both ~= 0)       | 0     | 0.0 %
+
+4. MOVEMENT PHASES (FROM CSV)
+-----------------------------
+The data reveals distinct movement phases driven by keyboard teleop:
+
+Time (s)    | Phase      | Description
+------------|------------|------------------------------------------
+0.00 - 0.50 | Forward    | Straight-line motion (linear_x = 2.0)
+0.61 - 0.61 | Left turn  | Brief counter-clockwise turn (ang_z = +2.0)
+1.01 - 1.58 | Forward    | Straight again
+1.58 - 2.21 | Left turn  | Sustained CCW turn
+2.21 - 5.65 | Forward    | Long forward burst (~3.4 s)
+5.65 - 6.21 | Left turn  | CCW rotation
+6.23 - 6.95 | Forward    | Another forward segment
+6.95 - 8.04 | Right turn | First CW turn (ang_z = -2.0), ~1.1 s
+8.04 - 9.04 | Forward    | Long straight run
+9.04 - 9.58 | Right turn | Brief CW correction
+9.58 - 10.57| Forward    | Final forward segment
+10.59       | Right turn | Single braking turn at end
+
+Key observation: The turtle used only two discrete speed values (0 and +/-2.0), 
+characteristic of the turtle_teleop_key node. The operator primarily drove 
+forward with intermittent left and right turns, producing an irregular path 
+rather than a geometric shape.
