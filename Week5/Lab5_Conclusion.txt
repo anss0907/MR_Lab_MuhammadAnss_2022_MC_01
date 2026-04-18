@@ -1,0 +1,70 @@
+Conclusion
+====================================================================
+Lab 5 - MCT-454L Mobile Robotics
+Muhammad Anss | April 18, 2026
+====================================================================
+
+This lab was probably one of the most hands-on sessions so far. Up
+until now we had been working with turtlesim which is basically just
+a 2D canvas with a turtle icon. Moving to Gazebo and RViz with an
+actual 3D robot model felt like a huge step forward — it actually
+felt like working with a real robot.
+
+The biggest takeaway for me was understanding how all the different
+pieces of ROS 2 fit together in a practical scenario. Gazebo handles
+the physics simulation, RViz handles the visualization, and all the
+ROS 2 nodes communicate through topics and services. Seeing the
+rqt_graph with all the nodes connected really helped me understand
+the architecture better than any textbook diagram could.
+
+SLAM with Cartographer was genuinely cool to watch. Driving the
+robot around and seeing the map build up in real time in RViz was
+satisfying. It gave me a real appreciation for how robots like
+vacuum cleaners and warehouse robots map their environments. The
+fact that it's using just a 2D LiDAR and IMU to do this is
+impressive.
+
+Writing the cmd_vel publisher and odom subscriber nodes reinforced
+what we learned in earlier labs about ROS 2 publishers and
+subscribers, but in a more meaningful context. Instead of just
+printing messages to a terminal, the publisher was actually making a
+3D robot move in a simulated world, and the subscriber was reading
+real sensor data. It made the pub-sub pattern click in a way that
+the previous turtlesim exercises didn't.
+
+Some challenges I faced:
+
+- The ROS packages wouldn't install at first because the apt package
+  index was stale. The server had rebuilt the packages with new
+  versions but my local cache still pointed to the old URLs. I had
+  to manually delete the cached lists and re-run apt update to fix
+  it.
+
+- Gazebo took a very long time to load on the first run because it
+  had to download 3D model assets from the internet. The spawn
+  service actually timed out the first time. On the second attempt
+  everything worked fine since the models were already cached.
+
+- Teleoperating the robot back to (0,0,0) precisely was basically
+  impossible without a proper controller. Odometry drift means that
+  dead reckoning alone isn't reliable for returning to an exact
+  position. This is exactly why navigation stacks with path planning
+  and localization exist.
+
+- ROS 2 log output goes to stderr not stdout, so my first attempt at
+  saving the odom subscriber output with >> didn't capture anything.
+  I had to use 2>&1 to redirect stderr to stdout before piping it to
+  a file.
+
+If I had to do this lab again, I'd spend more time exploring the
+RViz visualization options — there are a lot of plugins and settings
+I didn't fully explore. I'd also want to try the waffle model
+instead of the burger to see how the additional sensors (like the
+camera) show up in the visualization.
+
+Overall, this session gave me a solid foundation in simulation-based
+robotics development with ROS 2. I now feel comfortable launching
+Gazebo simulations, using RViz for visualization, and creating
+custom nodes that interact with simulated robots. These skills will
+be really useful for the upcoming labs on autonomous navigation and
+path planning.

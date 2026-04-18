@@ -1,0 +1,87 @@
+Observations on Discrepancies Between Expected and Simulated Motion
+====================================================================
+Lab 5 - MCT-454L Mobile Robotics
+Muhammad Anss | April 18, 2026
+====================================================================
+
+During the simulation, I noticed several differences between what I
+expected the robot to do and what actually happened in Gazebo. Here
+are my key observations:
+
+
+1. Odometry Drift
+-----------------
+When I tried to teleop the robot back to (0, 0, 0), the odometry
+readings never perfectly returned to zero. Even though I tried to
+retrace my path carefully, the final position was slightly off.
+This happens because wheel odometry accumulates small errors over
+time — every tiny wheel slip or rounding error adds up. This is a
+well-known limitation of differential-drive robots and is exactly
+why SLAM exists — it corrects for this kind of drift using sensor
+data.
+
+
+2. The Robot Doesn't Stop Instantly
+-----------------------------------
+When I ran my cmd_vel publisher that alternates between 0.2 m/s and
+0.0 m/s every 2 seconds, I expected the robot to immediately jump
+between those two speeds. But in Gazebo, the robot takes a moment to
+speed up and a moment to slow down. This is because the physics
+engine simulates real-world inertia — the robot has mass, and mass
+resists changes in velocity. So even though I'm commanding an
+instant speed change, the actual motion is gradual. In a real robot,
+this would be even more noticeable.
+
+
+3. Small Velocity When Stationary
+---------------------------------
+Even when the robot was completely still (no teleop commands being
+sent), the odom subscriber showed tiny non-zero velocities like
+0.0004 m/s or angular velocities of 0.0089 rad/s. At first I
+thought something was wrong, but this is just numerical noise from
+the physics simulation. Gazebo uses iterative solvers for physics,
+and they produce these tiny residual values. In practice, you'd
+typically threshold these out (ignore anything below 0.001 or so).
+
+
+4. LiDAR Scan Gaps
+-------------------
+While building the map with Cartographer, I noticed that corners
+and narrow spaces sometimes had small gaps or artifacts in the map.
+This is because the LiDAR has a fixed angular resolution and range,
+so areas that were only scanned briefly or from far away didn't get
+enough data points for a clean map. Driving slowly and making
+multiple passes through these areas improved the map quality.
+
+
+5. Orientation Values
+---------------------
+The orientation in the odom messages is given as a quaternion
+(x, y, z, w), which isn't super intuitive to read. For example,
+turning 90 degrees doesn't just show up as "90" — instead you see
+changes in the z and w components of the quaternion. Converting to
+Euler angles would make it more human-readable, but the raw
+quaternion avoids issues like gimbal lock. I noticed the z component
+steadily changed as I rotated the robot, which confirmed that the
+odometry was tracking rotation correctly.
+
+
+6. cmd_vel vs Actual Motion Mismatch
+-------------------------------------
+When publishing 0.2 m/s to /cmd_vel, the actual velocity reported
+by /odom was usually something like 0.198 or 0.201 — close but not
+exactly 0.2. This small discrepancy is because /cmd_vel is a
+velocity *command* (what we want), while /odom reports the
+*estimated* actual velocity after physics simulation. There are
+always small differences due to wheel traction, surface friction,
+and other factors simulated by Gazebo.
+
+
+Summary
+-------
+Overall, these discrepancies are completely normal and expected in
+both simulation and real robotics. They highlight why closed-loop
+control, sensor fusion, and SLAM are essential — you can't just
+blindly trust odometry or assume commands execute perfectly. The
+simulation actually did a good job of mimicking the kinds of
+imperfections you'd see on a real TurtleBot3.

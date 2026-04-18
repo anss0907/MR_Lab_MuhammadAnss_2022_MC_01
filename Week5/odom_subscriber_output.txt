@@ -1,0 +1,1892 @@
+[INFO] [1776518717.302647248] [odom_subscriber]: Odom Subscriber started — listening on /odom
+[INFO] [1776518717.302924007] [odom_subscriber]: Message type: nav_msgs/msg/Odometry
+[INFO] [1776518717.308506095] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5015, z: 0.0085
+[INFO] [1776518717.308770346] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0022, z: 0.6278, w: 0.7784
+[INFO] [1776518717.308938571] [odom_subscriber]: Linear Vel  -> x: -0.0004, y: -0.0000, z: 0.0000
+[INFO] [1776518717.309199532] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.1934
+[INFO] [1776518717.309378328] [odom_subscriber]: ---
+[INFO] [1776518717.340095034] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5015, z: 0.0085
+[INFO] [1776518717.340434230] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0022, z: 0.6304, w: 0.7763
+[INFO] [1776518717.340695549] [odom_subscriber]: Linear Vel  -> x: -0.0004, y: 0.0001, z: 0.0000
+[INFO] [1776518717.340949110] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.1974
+[INFO] [1776518717.341231654] [odom_subscriber]: ---
+[INFO] [1776518717.373149115] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5015, z: 0.0085
+[INFO] [1776518717.373813646] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0022, z: 0.6330, w: 0.7741
+[INFO] [1776518717.374372081] [odom_subscriber]: Linear Vel  -> x: -0.0004, y: 0.0001, z: 0.0000
+[INFO] [1776518717.375183337] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.2040
+[INFO] [1776518717.375723819] [odom_subscriber]: ---
+[INFO] [1776518717.405803300] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5015, z: 0.0085
+[INFO] [1776518717.406348186] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0021, z: 0.6357, w: 0.7719
+[INFO] [1776518717.406763392] [odom_subscriber]: Linear Vel  -> x: -0.0004, y: 0.0000, z: 0.0000
+[INFO] [1776518717.407383841] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.2002
+[INFO] [1776518717.408042044] [odom_subscriber]: ---
+[INFO] [1776518717.439943687] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5015, z: 0.0085
+[INFO] [1776518717.441316662] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0021, z: 0.6383, w: 0.7698
+[INFO] [1776518717.442314879] [odom_subscriber]: Linear Vel  -> x: -0.0004, y: 0.0000, z: 0.0000
+[INFO] [1776518717.443307165] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.1975
+[INFO] [1776518717.443828951] [odom_subscriber]: ---
+[INFO] [1776518717.471681256] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5016, z: 0.0085
+[INFO] [1776518717.471931894] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0021, z: 0.6409, w: 0.7676
+[INFO] [1776518717.472097250] [odom_subscriber]: Linear Vel  -> x: -0.0004, y: 0.0000, z: 0.0000
+[INFO] [1776518717.472264868] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.2003
+[INFO] [1776518717.472440847] [odom_subscriber]: ---
+[INFO] [1776518717.505703426] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5016, z: 0.0085
+[INFO] [1776518717.506165516] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0021, z: 0.6435, w: 0.7654
+[INFO] [1776518717.506486301] [odom_subscriber]: Linear Vel  -> x: -0.0004, y: -0.0000, z: 0.0000
+[INFO] [1776518717.506753328] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.2011
+[INFO] [1776518717.506949129] [odom_subscriber]: ---
+[INFO] [1776518717.540291389] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5016, z: 0.0085
+[INFO] [1776518717.540627798] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0021, z: 0.6461, w: 0.7632
+[INFO] [1776518717.541021714] [odom_subscriber]: Linear Vel  -> x: -0.0004, y: 0.0000, z: 0.0000
+[INFO] [1776518717.541318663] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.1993
+[INFO] [1776518717.541582517] [odom_subscriber]: ---
+[INFO] [1776518717.574268118] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5016, z: 0.0085
+[INFO] [1776518717.574723888] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.6487, w: 0.7610
+[INFO] [1776518717.575083955] [odom_subscriber]: Linear Vel  -> x: -0.0004, y: -0.0000, z: 0.0000
+[INFO] [1776518717.575439808] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.1993
+[INFO] [1776518717.575861391] [odom_subscriber]: ---
+[INFO] [1776518717.608402149] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5016, z: 0.0085
+[INFO] [1776518717.609060742] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.6513, w: 0.7588
+[INFO] [1776518717.609662152] [odom_subscriber]: Linear Vel  -> x: -0.0004, y: -0.0000, z: 0.0000
+[INFO] [1776518717.610274617] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.2003
+[INFO] [1776518717.610877226] [odom_subscriber]: ---
+[INFO] [1776518717.643690946] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5016, z: 0.0085
+[INFO] [1776518717.644580442] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.6539, w: 0.7566
+[INFO] [1776518717.645331639] [odom_subscriber]: Linear Vel  -> x: -0.0004, y: -0.0000, z: 0.0000
+[INFO] [1776518717.646332154] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.2000
+[INFO] [1776518717.647052101] [odom_subscriber]: ---
+[INFO] [1776518717.677994311] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5016, z: 0.0085
+[INFO] [1776518717.678514760] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.6564, w: 0.7544
+[INFO] [1776518717.678967785] [odom_subscriber]: Linear Vel  -> x: -0.0004, y: -0.0000, z: 0.0000
+[INFO] [1776518717.679363233] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.1996
+[INFO] [1776518717.679663325] [odom_subscriber]: ---
+[INFO] [1776518717.711277409] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5016, z: 0.0085
+[INFO] [1776518717.711653640] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.6590, w: 0.7522
+[INFO] [1776518717.712081941] [odom_subscriber]: Linear Vel  -> x: -0.0004, y: -0.0000, z: 0.0000
+[INFO] [1776518717.712382883] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.1998
+[INFO] [1776518717.712636021] [odom_subscriber]: ---
+[INFO] [1776518717.746483829] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5017, z: 0.0085
+[INFO] [1776518717.747378589] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.6615, w: 0.7499
+[INFO] [1776518717.748202099] [odom_subscriber]: Linear Vel  -> x: -0.0004, y: -0.0000, z: 0.0000
+[INFO] [1776518717.749048502] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.2000
+[INFO] [1776518717.749551216] [odom_subscriber]: ---
+[INFO] [1776518717.779846992] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5017, z: 0.0085
+[INFO] [1776518717.780653738] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.6641, w: 0.7477
+[INFO] [1776518717.781415670] [odom_subscriber]: Linear Vel  -> x: -0.0004, y: -0.0000, z: 0.0000
+[INFO] [1776518717.782157634] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.1998
+[INFO] [1776518717.782904502] [odom_subscriber]: ---
+[INFO] [1776518717.813950786] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5017, z: 0.0085
+[INFO] [1776518717.814527600] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0020, z: 0.6666, w: 0.7454
+[INFO] [1776518717.814981468] [odom_subscriber]: Linear Vel  -> x: -0.0004, y: -0.0000, z: 0.0000
+[INFO] [1776518717.815455043] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.1998
+[INFO] [1776518717.815816313] [odom_subscriber]: ---
+[INFO] [1776518717.847585070] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5017, z: 0.0085
+[INFO] [1776518717.848569128] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0020, z: 0.6691, w: 0.7431
+[INFO] [1776518717.849483461] [odom_subscriber]: Linear Vel  -> x: -0.0004, y: -0.0000, z: 0.0000
+[INFO] [1776518717.849815326] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.1999
+[INFO] [1776518717.850261458] [odom_subscriber]: ---
+[INFO] [1776518717.881560921] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5017, z: 0.0085
+[INFO] [1776518717.882014895] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0020, z: 0.6717, w: 0.7409
+[INFO] [1776518717.882478777] [odom_subscriber]: Linear Vel  -> x: -0.0004, y: -0.0000, z: 0.0000
+[INFO] [1776518717.882785265] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.1999
+[INFO] [1776518717.883226127] [odom_subscriber]: ---
+[INFO] [1776518717.915770986] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5017, z: 0.0085
+[INFO] [1776518717.916165446] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0020, z: 0.6742, w: 0.7386
+[INFO] [1776518717.916562670] [odom_subscriber]: Linear Vel  -> x: -0.0004, y: -0.0000, z: 0.0000
+[INFO] [1776518717.917161966] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.1998
+[INFO] [1776518717.917763075] [odom_subscriber]: ---
+[INFO] [1776518717.950621852] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5017, z: 0.0085
+[INFO] [1776518717.951169041] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0020, z: 0.6767, w: 0.7363
+[INFO] [1776518717.952307885] [odom_subscriber]: Linear Vel  -> x: -0.0004, y: -0.0000, z: 0.0000
+[INFO] [1776518717.953327347] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.1998
+[INFO] [1776518717.955042617] [odom_subscriber]: ---
+[INFO] [1776518717.986253153] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5017, z: 0.0085
+[INFO] [1776518717.987550923] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0020, z: 0.6792, w: 0.7340
+[INFO] [1776518717.989160489] [odom_subscriber]: Linear Vel  -> x: -0.0004, y: -0.0000, z: 0.0000
+[INFO] [1776518717.990129686] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.1999
+[INFO] [1776518717.990969621] [odom_subscriber]: ---
+[INFO] [1776518718.018956408] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5018, z: 0.0085
+[INFO] [1776518718.020063124] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0020, z: 0.6817, w: 0.7317
+[INFO] [1776518718.020624086] [odom_subscriber]: Linear Vel  -> x: -0.0004, y: -0.0000, z: 0.0000
+[INFO] [1776518718.021255106] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.1999
+[INFO] [1776518718.021669848] [odom_subscriber]: ---
+[INFO] [1776518718.054020332] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5018, z: 0.0085
+[INFO] [1776518718.055059463] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0020, z: 0.6841, w: 0.7293
+[INFO] [1776518718.056027558] [odom_subscriber]: Linear Vel  -> x: -0.0004, y: -0.0000, z: 0.0000
+[INFO] [1776518718.056952729] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.1998
+[INFO] [1776518718.057859532] [odom_subscriber]: ---
+[INFO] [1776518718.087191211] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5018, z: 0.0085
+[INFO] [1776518718.088147955] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0020, z: 0.6866, w: 0.7270
+[INFO] [1776518718.089035814] [odom_subscriber]: Linear Vel  -> x: -0.0004, y: -0.0000, z: 0.0000
+[INFO] [1776518718.089936982] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.1998
+[INFO] [1776518718.090442973] [odom_subscriber]: ---
+[INFO] [1776518718.120514325] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5018, z: 0.0085
+[INFO] [1776518718.120947583] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0020, z: 0.6891, w: 0.7247
+[INFO] [1776518718.122205945] [odom_subscriber]: Linear Vel  -> x: -0.0004, y: -0.0000, z: 0.0000
+[INFO] [1776518718.123119745] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.1999
+[INFO] [1776518718.123987876] [odom_subscriber]: ---
+[INFO] [1776518718.155250176] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5018, z: 0.0085
+[INFO] [1776518718.156402174] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0020, z: 0.6915, w: 0.7223
+[INFO] [1776518718.157455263] [odom_subscriber]: Linear Vel  -> x: -0.0004, y: -0.0000, z: 0.0000
+[INFO] [1776518718.158521762] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.1998
+[INFO] [1776518718.159451941] [odom_subscriber]: ---
+[INFO] [1776518718.187816787] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5018, z: 0.0085
+[INFO] [1776518718.188238735] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0020, z: 0.6940, w: 0.7200
+[INFO] [1776518718.188570224] [odom_subscriber]: Linear Vel  -> x: -0.0004, y: -0.0000, z: 0.0000
+[INFO] [1776518718.188881476] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.1998
+[INFO] [1776518718.189214783] [odom_subscriber]: ---
+[INFO] [1776518718.221954902] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5018, z: 0.0085
+[INFO] [1776518718.222551467] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.6964, w: 0.7176
+[INFO] [1776518718.223068169] [odom_subscriber]: Linear Vel  -> x: -0.0004, y: -0.0000, z: 0.0000
+[INFO] [1776518718.224283799] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.1998
+[INFO] [1776518718.225617617] [odom_subscriber]: ---
+[INFO] [1776518718.257783395] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5018, z: 0.0085
+[INFO] [1776518718.258678380] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.6989, w: 0.7152
+[INFO] [1776518718.259339400] [odom_subscriber]: Linear Vel  -> x: -0.0004, y: -0.0000, z: 0.0000
+[INFO] [1776518718.259823875] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.1998
+[INFO] [1776518718.260382708] [odom_subscriber]: ---
+[INFO] [1776518718.292776742] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5019, z: 0.0085
+[INFO] [1776518718.294202530] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.7013, w: 0.7129
+[INFO] [1776518718.295791394] [odom_subscriber]: Linear Vel  -> x: -0.0004, y: -0.0000, z: 0.0000
+[INFO] [1776518718.296943753] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.1998
+[INFO] [1776518718.297653608] [odom_subscriber]: ---
+[INFO] [1776518718.327155917] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5019, z: 0.0085
+[INFO] [1776518718.328942245] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.7037, w: 0.7105
+[INFO] [1776518718.330452511] [odom_subscriber]: Linear Vel  -> x: -0.0004, y: -0.0000, z: 0.0000
+[INFO] [1776518718.331517186] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.1998
+[INFO] [1776518718.332466746] [odom_subscriber]: ---
+[INFO] [1776518718.361638252] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5019, z: 0.0085
+[INFO] [1776518718.363076646] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.7061, w: 0.7081
+[INFO] [1776518718.364230923] [odom_subscriber]: Linear Vel  -> x: -0.0004, y: -0.0000, z: 0.0000
+[INFO] [1776518718.365427836] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.1998
+[INFO] [1776518718.366692725] [odom_subscriber]: ---
+[INFO] [1776518718.394888950] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5019, z: 0.0085
+[INFO] [1776518718.395391296] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.7085, w: 0.7057
+[INFO] [1776518718.395796120] [odom_subscriber]: Linear Vel  -> x: -0.0004, y: -0.0000, z: 0.0000
+[INFO] [1776518718.396421646] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.1998
+[INFO] [1776518718.396765377] [odom_subscriber]: ---
+[INFO] [1776518718.429982080] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5019, z: 0.0085
+[INFO] [1776518718.430933720] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.7109, w: 0.7033
+[INFO] [1776518718.431651309] [odom_subscriber]: Linear Vel  -> x: -0.0004, y: -0.0000, z: 0.0000
+[INFO] [1776518718.432330949] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.1998
+[INFO] [1776518718.433115838] [odom_subscriber]: ---
+[INFO] [1776518718.465569465] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5019, z: 0.0085
+[INFO] [1776518718.467081799] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.7133, w: 0.7008
+[INFO] [1776518718.468366568] [odom_subscriber]: Linear Vel  -> x: -0.0004, y: -0.0000, z: 0.0000
+[INFO] [1776518718.469742802] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.1998
+[INFO] [1776518718.471015348] [odom_subscriber]: ---
+[INFO] [1776518718.498883026] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5019, z: 0.0085
+[INFO] [1776518718.500103416] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.7157, w: 0.6984
+[INFO] [1776518718.501197561] [odom_subscriber]: Linear Vel  -> x: -0.0004, y: -0.0000, z: 0.0000
+[INFO] [1776518718.501783653] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.1998
+[INFO] [1776518718.502648422] [odom_subscriber]: ---
+[INFO] [1776518718.533426787] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5019, z: 0.0085
+[INFO] [1776518718.534410651] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.7181, w: 0.6960
+[INFO] [1776518718.535385932] [odom_subscriber]: Linear Vel  -> x: -0.0004, y: -0.0000, z: 0.0000
+[INFO] [1776518718.536511990] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.1998
+[INFO] [1776518718.537500615] [odom_subscriber]: ---
+[INFO] [1776518718.567530980] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5020, z: 0.0085
+[INFO] [1776518718.568367672] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.7204, w: 0.6935
+[INFO] [1776518718.568998405] [odom_subscriber]: Linear Vel  -> x: -0.0004, y: -0.0000, z: 0.0000
+[INFO] [1776518718.569563999] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.1998
+[INFO] [1776518718.570073956] [odom_subscriber]: ---
+[INFO] [1776518718.601891019] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5020, z: 0.0085
+[INFO] [1776518718.602662633] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.7228, w: 0.6911
+[INFO] [1776518718.603374415] [odom_subscriber]: Linear Vel  -> x: -0.0004, y: -0.0000, z: 0.0000
+[INFO] [1776518718.604049692] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.1998
+[INFO] [1776518718.604529631] [odom_subscriber]: ---
+[INFO] [1776518718.635700615] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5020, z: 0.0085
+[INFO] [1776518718.636408255] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.7251, w: 0.6886
+[INFO] [1776518718.637018969] [odom_subscriber]: Linear Vel  -> x: -0.0004, y: -0.0000, z: 0.0000
+[INFO] [1776518718.637644208] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.1998
+[INFO] [1776518718.638214433] [odom_subscriber]: ---
+[INFO] [1776518718.670089854] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5020, z: 0.0085
+[INFO] [1776518718.670589433] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.7274, w: 0.6862
+[INFO] [1776518718.671061204] [odom_subscriber]: Linear Vel  -> x: -0.0004, y: -0.0000, z: 0.0000
+[INFO] [1776518718.671469833] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.1998
+[INFO] [1776518718.671851223] [odom_subscriber]: ---
+[INFO] [1776518718.703979835] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5020, z: 0.0085
+[INFO] [1776518718.704560961] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.7271, w: 0.6866
+[INFO] [1776518718.704967250] [odom_subscriber]: Linear Vel  -> x: 0.0010, y: -0.0004, z: 0.0000
+[INFO] [1776518718.705361724] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.3055
+[INFO] [1776518718.705749959] [odom_subscriber]: ---
+[INFO] [1776518718.738091080] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5020, z: 0.0085
+[INFO] [1776518718.738594534] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0020, z: 0.7232, w: 0.6906
+[INFO] [1776518718.738937814] [odom_subscriber]: Linear Vel  -> x: 0.0001, y: -0.0005, z: 0.0000
+[INFO] [1776518718.739241041] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1966
+[INFO] [1776518718.739555748] [odom_subscriber]: ---
+[INFO] [1776518718.771878764] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5020, z: 0.0085
+[INFO] [1776518718.772255136] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0020, z: 0.7238, w: 0.6900
+[INFO] [1776518718.772577372] [odom_subscriber]: Linear Vel  -> x: -0.0004, y: 0.0002, z: 0.0000
+[INFO] [1776518718.772884988] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.2094
+[INFO] [1776518718.773178412] [odom_subscriber]: ---
+[INFO] [1776518718.807188414] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5020, z: 0.0085
+[INFO] [1776518718.808340024] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0020, z: 0.7257, w: 0.6880
+[INFO] [1776518718.809539814] [odom_subscriber]: Linear Vel  -> x: -0.0001, y: -0.0000, z: 0.0000
+[INFO] [1776518718.810690288] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0547
+[INFO] [1776518718.811772757] [odom_subscriber]: ---
+[INFO] [1776518718.841082835] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5020, z: 0.0085
+[INFO] [1776518718.841656019] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0020, z: 0.7249, w: 0.6888
+[INFO] [1776518718.842119059] [odom_subscriber]: Linear Vel  -> x: 0.0002, y: -0.0007, z: 0.0000
+[INFO] [1776518718.842563991] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1295
+[INFO] [1776518718.842936105] [odom_subscriber]: ---
+[INFO] [1776518718.874390913] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5020, z: 0.0085
+[INFO] [1776518718.874904342] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0020, z: 0.7240, w: 0.6898
+[INFO] [1776518718.875345209] [odom_subscriber]: Linear Vel  -> x: -0.0000, y: -0.0003, z: 0.0000
+[INFO] [1776518718.875720617] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0021
+[INFO] [1776518718.876070139] [odom_subscriber]: ---
+[INFO] [1776518718.910094833] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5020, z: 0.0085
+[INFO] [1776518718.911224909] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.7247, w: 0.6891
+[INFO] [1776518718.912394421] [odom_subscriber]: Linear Vel  -> x: -0.0001, y: -0.0000, z: 0.0000
+[INFO] [1776518718.913070443] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0709
+[INFO] [1776518718.913623983] [odom_subscriber]: ---
+[INFO] [1776518718.944586882] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5020, z: 0.0085
+[INFO] [1776518718.945850865] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.7250, w: 0.6887
+[INFO] [1776518718.946931622] [odom_subscriber]: Linear Vel  -> x: 0.0000, y: 0.0000, z: 0.0000
+[INFO] [1776518718.948163560] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0189
+[INFO] [1776518718.948679794] [odom_subscriber]: ---
+[INFO] [1776518718.977477787] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5020, z: 0.0085
+[INFO] [1776518718.977866444] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.7246, w: 0.6892
+[INFO] [1776518718.978195151] [odom_subscriber]: Linear Vel  -> x: 0.0000, y: -0.0003, z: 0.0000
+[INFO] [1776518718.978477739] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0345
+[INFO] [1776518718.978724287] [odom_subscriber]: ---
+[INFO] [1776518719.012542533] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5020, z: 0.0085
+[INFO] [1776518719.013218400] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.7245, w: 0.6893
+[INFO] [1776518719.013682667] [odom_subscriber]: Linear Vel  -> x: -0.0000, y: -0.0001, z: 0.0000
+[INFO] [1776518719.014106689] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0190
+[INFO] [1776518719.014512711] [odom_subscriber]: ---
+[INFO] [1776518719.045897835] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5020, z: 0.0085
+[INFO] [1776518719.046399952] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.7248, w: 0.6890
+[INFO] [1776518719.046781049] [odom_subscriber]: Linear Vel  -> x: -0.0000, y: -0.0001, z: 0.0000
+[INFO] [1776518719.047120588] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0143
+[INFO] [1776518719.047499820] [odom_subscriber]: ---
+[INFO] [1776518719.080431665] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5020, z: 0.0085
+[INFO] [1776518719.081090017] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0021, z: 0.7247, w: 0.6890
+[INFO] [1776518719.081722104] [odom_subscriber]: Linear Vel  -> x: 0.0000, y: -0.0002, z: 0.0000
+[INFO] [1776518719.082276746] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0141
+[INFO] [1776518719.082911602] [odom_subscriber]: ---
+[INFO] [1776518719.114041219] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5020, z: 0.0085
+[INFO] [1776518719.114360084] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0021, z: 0.7246, w: 0.6892
+[INFO] [1776518719.114621869] [odom_subscriber]: Linear Vel  -> x: 0.0000, y: -0.0001, z: 0.0000
+[INFO] [1776518719.114864713] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0044
+[INFO] [1776518719.115102974] [odom_subscriber]: ---
+[INFO] [1776518719.150325823] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5020, z: 0.0085
+[INFO] [1776518719.151577810] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0021, z: 0.7247, w: 0.6891
+[INFO] [1776518719.152597825] [odom_subscriber]: Linear Vel  -> x: -0.0000, y: -0.0000, z: 0.0000
+[INFO] [1776518719.153304831] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0089
+[INFO] [1776518719.153772313] [odom_subscriber]: ---
+[INFO] [1776518719.184622026] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5020, z: 0.0085
+[INFO] [1776518719.185778396] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0021, z: 0.7247, w: 0.6890
+[INFO] [1776518719.186988880] [odom_subscriber]: Linear Vel  -> x: -0.0000, y: -0.0001, z: 0.0000
+[INFO] [1776518719.188033516] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0002
+[INFO] [1776518719.189053199] [odom_subscriber]: ---
+[INFO] [1776518719.218240884] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5020, z: 0.0085
+[INFO] [1776518719.218734963] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0022, z: 0.7247, w: 0.6891
+[INFO] [1776518719.219106341] [odom_subscriber]: Linear Vel  -> x: 0.0000, y: 0.0000, z: 0.0000
+[INFO] [1776518719.219464517] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0050
+[INFO] [1776518719.219809671] [odom_subscriber]: ---
+[INFO] [1776518719.252691922] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5020, z: 0.0085
+[INFO] [1776518719.253493872] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0022, z: 0.7247, w: 0.6891
+[INFO] [1776518719.254232260] [odom_subscriber]: Linear Vel  -> x: -0.0000, y: -0.0001, z: 0.0000
+[INFO] [1776518719.255035602] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0011
+[INFO] [1776518719.255839103] [odom_subscriber]: ---
+[INFO] [1776518719.286989665] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5020, z: 0.0085
+[INFO] [1776518719.288109652] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0022, z: 0.7247, w: 0.6891
+[INFO] [1776518719.289181691] [odom_subscriber]: Linear Vel  -> x: -0.0000, y: -0.0000, z: 0.0000
+[INFO] [1776518719.290373035] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0025
+[INFO] [1776518719.290918532] [odom_subscriber]: ---
+[INFO] [1776518719.321635100] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5020, z: 0.0085
+[INFO] [1776518719.322893815] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0022, z: 0.7247, w: 0.6891
+[INFO] [1776518719.324735650] [odom_subscriber]: Linear Vel  -> x: 0.0000, y: -0.0000, z: 0.0000
+[INFO] [1776518719.326288562] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0012
+[INFO] [1776518719.327720581] [odom_subscriber]: ---
+[INFO] [1776518719.357030548] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5020, z: 0.0085
+[INFO] [1776518719.358898172] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0022, z: 0.7247, w: 0.6891
+[INFO] [1776518719.360205912] [odom_subscriber]: Linear Vel  -> x: 0.0000, y: -0.0000, z: 0.0000
+[INFO] [1776518719.361464113] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0011
+[INFO] [1776518719.362584915] [odom_subscriber]: ---
+[INFO] [1776518719.390766335] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5020, z: 0.0085
+[INFO] [1776518719.391746645] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0022, z: 0.7247, w: 0.6891
+[INFO] [1776518719.392919612] [odom_subscriber]: Linear Vel  -> x: -0.0000, y: -0.0000, z: 0.0000
+[INFO] [1776518719.393598947] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0009
+[INFO] [1776518719.394217191] [odom_subscriber]: ---
+[INFO] [1776518719.425509739] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5020, z: 0.0085
+[INFO] [1776518719.427002722] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0022, z: 0.7247, w: 0.6891
+[INFO] [1776518719.428531134] [odom_subscriber]: Linear Vel  -> x: 0.0000, y: 0.0000, z: 0.0000
+[INFO] [1776518719.429645345] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0003
+[INFO] [1776518719.430705580] [odom_subscriber]: ---
+[INFO] [1776518719.459158690] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5020, z: 0.0085
+[INFO] [1776518719.459984177] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0022, z: 0.7247, w: 0.6891
+[INFO] [1776518719.460542160] [odom_subscriber]: Linear Vel  -> x: 0.0000, y: 0.0000, z: 0.0000
+[INFO] [1776518719.460922181] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0006
+[INFO] [1776518719.461288831] [odom_subscriber]: ---
+[INFO] [1776518719.493956569] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5020, z: 0.0085
+[INFO] [1776518719.494806008] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0022, z: 0.7247, w: 0.6891
+[INFO] [1776518719.495609842] [odom_subscriber]: Linear Vel  -> x: 0.0000, y: -0.0000, z: 0.0000
+[INFO] [1776518719.496420320] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0000
+[INFO] [1776518719.497235959] [odom_subscriber]: ---
+[INFO] [1776518719.527740047] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5020, z: 0.0085
+[INFO] [1776518719.529174274] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0022, z: 0.7247, w: 0.6891
+[INFO] [1776518719.530270750] [odom_subscriber]: Linear Vel  -> x: 0.0000, y: -0.0000, z: 0.0000
+[INFO] [1776518719.530831001] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0004
+[INFO] [1776518719.531408216] [odom_subscriber]: ---
+[INFO] [1776518719.561582208] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5020, z: 0.0085
+[INFO] [1776518719.562161103] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0022, z: 0.7247, w: 0.6891
+[INFO] [1776518719.562611373] [odom_subscriber]: Linear Vel  -> x: 0.0000, y: -0.0000, z: 0.0000
+[INFO] [1776518719.563079757] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0001
+[INFO] [1776518719.563537067] [odom_subscriber]: ---
+[INFO] [1776518719.595793536] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5020, z: 0.0085
+[INFO] [1776518719.596306315] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0022, z: 0.7247, w: 0.6891
+[INFO] [1776518719.596759649] [odom_subscriber]: Linear Vel  -> x: 0.0000, y: 0.0000, z: 0.0000
+[INFO] [1776518719.597185475] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0002
+[INFO] [1776518719.597595611] [odom_subscriber]: ---
+[INFO] [1776518719.630555955] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5020, z: 0.0085
+[INFO] [1776518719.631223544] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0022, z: 0.7247, w: 0.6891
+[INFO] [1776518719.631807358] [odom_subscriber]: Linear Vel  -> x: 0.0000, y: -0.0000, z: 0.0000
+[INFO] [1776518719.632334049] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0001
+[INFO] [1776518719.632743381] [odom_subscriber]: ---
+[INFO] [1776518719.665658367] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5020, z: 0.0085
+[INFO] [1776518719.666852072] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0022, z: 0.7247, w: 0.6891
+[INFO] [1776518719.667522412] [odom_subscriber]: Linear Vel  -> x: 0.0000, y: -0.0000, z: 0.0000
+[INFO] [1776518719.667950450] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0001
+[INFO] [1776518719.668410535] [odom_subscriber]: ---
+[INFO] [1776518719.700060498] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5020, z: 0.0085
+[INFO] [1776518719.701107025] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0022, z: 0.7247, w: 0.6891
+[INFO] [1776518719.702150103] [odom_subscriber]: Linear Vel  -> x: 0.0000, y: 0.0000, z: 0.0000
+[INFO] [1776518719.703168526] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0001
+[INFO] [1776518719.704066758] [odom_subscriber]: ---
+[INFO] [1776518719.734029737] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5018, z: 0.0085
+[INFO] [1776518719.734810647] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0022, z: 0.7247, w: 0.6891
+[INFO] [1776518719.735305004] [odom_subscriber]: Linear Vel  -> x: 0.0048, y: -0.0000, z: 0.0000
+[INFO] [1776518719.735733382] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0000
+[INFO] [1776518719.736124962] [odom_subscriber]: ---
+[INFO] [1776518719.769731079] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5016, z: 0.0085
+[INFO] [1776518719.770853589] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0022, z: 0.7247, w: 0.6891
+[INFO] [1776518719.771480209] [odom_subscriber]: Linear Vel  -> x: 0.0049, y: -0.0000, z: 0.0000
+[INFO] [1776518719.771876445] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0000
+[INFO] [1776518719.772249493] [odom_subscriber]: ---
+[INFO] [1776518719.803949787] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5015, z: 0.0085
+[INFO] [1776518719.805519891] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0021, z: 0.7247, w: 0.6891
+[INFO] [1776518719.807023519] [odom_subscriber]: Linear Vel  -> x: 0.0049, y: -0.0000, z: 0.0000
+[INFO] [1776518719.808670202] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0000
+[INFO] [1776518719.810217815] [odom_subscriber]: ---
+[INFO] [1776518719.838508659] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5011, z: 0.0085
+[INFO] [1776518719.840255561] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0021, z: 0.7247, w: 0.6891
+[INFO] [1776518719.841910497] [odom_subscriber]: Linear Vel  -> x: 0.0097, y: -0.0000, z: 0.0000
+[INFO] [1776518719.843420703] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0000
+[INFO] [1776518719.844842531] [odom_subscriber]: ---
+[INFO] [1776518719.872307653] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5008, z: 0.0085
+[INFO] [1776518719.873309432] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0021, z: 0.7247, w: 0.6891
+[INFO] [1776518719.874302539] [odom_subscriber]: Linear Vel  -> x: 0.0098, y: 0.0000, z: 0.0000
+[INFO] [1776518719.875069312] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0000
+[INFO] [1776518719.875613845] [odom_subscriber]: ---
+[INFO] [1776518719.906369332] [odom_subscriber]: Position    -> x: 1.6689, y: -0.5005, z: 0.0085
+[INFO] [1776518719.907489629] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0021, z: 0.7247, w: 0.6891
+[INFO] [1776518719.908240450] [odom_subscriber]: Linear Vel  -> x: 0.0098, y: 0.0000, z: 0.0000
+[INFO] [1776518719.908911192] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0000
+[INFO] [1776518719.909502590] [odom_subscriber]: ---
+[INFO] [1776518719.942866747] [odom_subscriber]: Position    -> x: 1.6688, y: -0.5001, z: 0.0085
+[INFO] [1776518719.944177434] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0021, z: 0.7247, w: 0.6891
+[INFO] [1776518719.945569471] [odom_subscriber]: Linear Vel  -> x: 0.0100, y: 0.0000, z: 0.0000
+[INFO] [1776518719.946410022] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0000
+[INFO] [1776518719.946778112] [odom_subscriber]: ---
+[INFO] [1776518719.976590255] [odom_subscriber]: Position    -> x: 1.6688, y: -0.4998, z: 0.0085
+[INFO] [1776518719.977201175] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0021, z: 0.7247, w: 0.6891
+[INFO] [1776518719.977970837] [odom_subscriber]: Linear Vel  -> x: 0.0099, y: -0.0000, z: 0.0000
+[INFO] [1776518719.978595012] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0000
+[INFO] [1776518719.979078839] [odom_subscriber]: ---
+[INFO] [1776518720.010361400] [odom_subscriber]: Position    -> x: 1.6688, y: -0.4994, z: 0.0085
+[INFO] [1776518720.010930546] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0021, z: 0.7247, w: 0.6891
+[INFO] [1776518720.011346891] [odom_subscriber]: Linear Vel  -> x: 0.0099, y: 0.0000, z: 0.0000
+[INFO] [1776518720.011811666] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0000
+[INFO] [1776518720.012224982] [odom_subscriber]: ---
+[INFO] [1776518720.045002485] [odom_subscriber]: Position    -> x: 1.6688, y: -0.4991, z: 0.0085
+[INFO] [1776518720.045798797] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0021, z: 0.7247, w: 0.6891
+[INFO] [1776518720.046474816] [odom_subscriber]: Linear Vel  -> x: 0.0099, y: 0.0000, z: 0.0000
+[INFO] [1776518720.047103217] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0000
+[INFO] [1776518720.048372531] [odom_subscriber]: ---
+[INFO] [1776518720.080004473] [odom_subscriber]: Position    -> x: 1.6688, y: -0.4988, z: 0.0085
+[INFO] [1776518720.081253839] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0021, z: 0.7247, w: 0.6891
+[INFO] [1776518720.082495552] [odom_subscriber]: Linear Vel  -> x: 0.0099, y: 0.0000, z: 0.0000
+[INFO] [1776518720.083650085] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0000
+[INFO] [1776518720.084867088] [odom_subscriber]: ---
+[INFO] [1776518720.114161244] [odom_subscriber]: Position    -> x: 1.6688, y: -0.4984, z: 0.0085
+[INFO] [1776518720.115081832] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.7247, w: 0.6891
+[INFO] [1776518720.115955771] [odom_subscriber]: Linear Vel  -> x: 0.0100, y: 0.0000, z: 0.0000
+[INFO] [1776518720.116679326] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0000
+[INFO] [1776518720.117337078] [odom_subscriber]: ---
+[INFO] [1776518720.149889892] [odom_subscriber]: Position    -> x: 1.6687, y: -0.4981, z: 0.0085
+[INFO] [1776518720.150562345] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.7247, w: 0.6891
+[INFO] [1776518720.151023279] [odom_subscriber]: Linear Vel  -> x: 0.0099, y: 0.0000, z: 0.0000
+[INFO] [1776518720.151456095] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0000
+[INFO] [1776518720.151846853] [odom_subscriber]: ---
+[INFO] [1776518720.184268451] [odom_subscriber]: Position    -> x: 1.6687, y: -0.4977, z: 0.0085
+[INFO] [1776518720.184896323] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.7247, w: 0.6891
+[INFO] [1776518720.185388877] [odom_subscriber]: Linear Vel  -> x: 0.0100, y: 0.0000, z: 0.0000
+[INFO] [1776518720.185859071] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0000
+[INFO] [1776518720.186321917] [odom_subscriber]: ---
+[INFO] [1776518720.218274637] [odom_subscriber]: Position    -> x: 1.6687, y: -0.4974, z: 0.0085
+[INFO] [1776518720.219324052] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.7247, w: 0.6891
+[INFO] [1776518720.220221221] [odom_subscriber]: Linear Vel  -> x: 0.0100, y: 0.0000, z: 0.0000
+[INFO] [1776518720.221113562] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0000
+[INFO] [1776518720.222257309] [odom_subscriber]: ---
+[INFO] [1776518720.253372493] [odom_subscriber]: Position    -> x: 1.6687, y: -0.4971, z: 0.0085
+[INFO] [1776518720.254830450] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.7247, w: 0.6891
+[INFO] [1776518720.256219394] [odom_subscriber]: Linear Vel  -> x: 0.0100, y: 0.0000, z: 0.0000
+[INFO] [1776518720.257588785] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0000
+[INFO] [1776518720.258947512] [odom_subscriber]: ---
+[INFO] [1776518720.286948996] [odom_subscriber]: Position    -> x: 1.6687, y: -0.4967, z: 0.0085
+[INFO] [1776518720.288542215] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.7247, w: 0.6891
+[INFO] [1776518720.289592814] [odom_subscriber]: Linear Vel  -> x: 0.0100, y: 0.0000, z: 0.0000
+[INFO] [1776518720.290805970] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0000
+[INFO] [1776518720.291974843] [odom_subscriber]: ---
+[INFO] [1776518720.321716117] [odom_subscriber]: Position    -> x: 1.6686, y: -0.4964, z: 0.0085
+[INFO] [1776518720.322664328] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.7247, w: 0.6891
+[INFO] [1776518720.323568808] [odom_subscriber]: Linear Vel  -> x: 0.0100, y: 0.0000, z: 0.0000
+[INFO] [1776518720.324370277] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0000
+[INFO] [1776518720.325015317] [odom_subscriber]: ---
+[INFO] [1776518720.357087897] [odom_subscriber]: Position    -> x: 1.6686, y: -0.4960, z: 0.0085
+[INFO] [1776518720.358519069] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.7247, w: 0.6891
+[INFO] [1776518720.359606254] [odom_subscriber]: Linear Vel  -> x: 0.0100, y: 0.0000, z: 0.0000
+[INFO] [1776518720.360612459] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0000
+[INFO] [1776518720.361448387] [odom_subscriber]: ---
+[INFO] [1776518720.389974555] [odom_subscriber]: Position    -> x: 1.6686, y: -0.4957, z: 0.0085
+[INFO] [1776518720.390681742] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.7247, w: 0.6891
+[INFO] [1776518720.391468223] [odom_subscriber]: Linear Vel  -> x: 0.0100, y: 0.0000, z: 0.0000
+[INFO] [1776518720.391870115] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0000
+[INFO] [1776518720.392242492] [odom_subscriber]: ---
+[INFO] [1776518720.425527871] [odom_subscriber]: Position    -> x: 1.6686, y: -0.4954, z: 0.0085
+[INFO] [1776518720.426866689] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0020, z: 0.7247, w: 0.6891
+[INFO] [1776518720.427565176] [odom_subscriber]: Linear Vel  -> x: 0.0100, y: 0.0000, z: 0.0000
+[INFO] [1776518720.429135214] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0000
+[INFO] [1776518720.430158772] [odom_subscriber]: ---
+[INFO] [1776518720.458271693] [odom_subscriber]: Position    -> x: 1.6686, y: -0.4950, z: 0.0085
+[INFO] [1776518720.458777105] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0020, z: 0.7244, w: 0.6894
+[INFO] [1776518720.459339310] [odom_subscriber]: Linear Vel  -> x: 0.0101, y: 0.0000, z: 0.0000
+[INFO] [1776518720.459739404] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0586
+[INFO] [1776518720.460181091] [odom_subscriber]: ---
+[INFO] [1776518720.492026445] [odom_subscriber]: Position    -> x: 1.6686, y: -0.4947, z: 0.0085
+[INFO] [1776518720.492357323] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0020, z: 0.7235, w: 0.6903
+[INFO] [1776518720.492676732] [odom_subscriber]: Linear Vel  -> x: 0.0101, y: -0.0002, z: 0.0000
+[INFO] [1776518720.493008356] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0754
+[INFO] [1776518720.493256482] [odom_subscriber]: ---
+[INFO] [1776518720.527582960] [odom_subscriber]: Position    -> x: 1.6685, y: -0.4943, z: 0.0085
+[INFO] [1776518720.529132466] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0020, z: 0.7228, w: 0.6910
+[INFO] [1776518720.530860570] [odom_subscriber]: Linear Vel  -> x: 0.0101, y: 0.0000, z: 0.0000
+[INFO] [1776518720.531573202] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0389
+[INFO] [1776518720.532069421] [odom_subscriber]: ---
+[INFO] [1776518720.563579614] [odom_subscriber]: Position    -> x: 1.6685, y: -0.4940, z: 0.0085
+[INFO] [1776518720.564833568] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0020, z: 0.7221, w: 0.6918
+[INFO] [1776518720.566072103] [odom_subscriber]: Linear Vel  -> x: 0.0102, y: -0.0002, z: 0.0000
+[INFO] [1776518720.567343229] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0973
+[INFO] [1776518720.568566428] [odom_subscriber]: ---
+[INFO] [1776518720.597284487] [odom_subscriber]: Position    -> x: 1.6685, y: -0.4936, z: 0.0085
+[INFO] [1776518720.598571938] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0020, z: 0.7206, w: 0.6933
+[INFO] [1776518720.599885656] [odom_subscriber]: Linear Vel  -> x: 0.0102, y: -0.0003, z: 0.0000
+[INFO] [1776518720.601101630] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1342
+[INFO] [1776518720.602226659] [odom_subscriber]: ---
+[INFO] [1776518720.630974696] [odom_subscriber]: Position    -> x: 1.6685, y: -0.4933, z: 0.0085
+[INFO] [1776518720.632151705] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0020, z: 0.7193, w: 0.6947
+[INFO] [1776518720.633199584] [odom_subscriber]: Linear Vel  -> x: 0.0102, y: -0.0001, z: 0.0000
+[INFO] [1776518720.634085834] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0928
+[INFO] [1776518720.634616423] [odom_subscriber]: ---
+[INFO] [1776518720.665586212] [odom_subscriber]: Position    -> x: 1.6685, y: -0.4929, z: 0.0085
+[INFO] [1776518720.666797244] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0020, z: 0.7183, w: 0.6957
+[INFO] [1776518720.667930657] [odom_subscriber]: Linear Vel  -> x: 0.0102, y: 0.0000, z: 0.0000
+[INFO] [1776518720.669101037] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0827
+[INFO] [1776518720.670226498] [odom_subscriber]: ---
+[INFO] [1776518720.699580978] [odom_subscriber]: Position    -> x: 1.6685, y: -0.4926, z: 0.0085
+[INFO] [1776518720.700190450] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.7172, w: 0.6969
+[INFO] [1776518720.700718427] [odom_subscriber]: Linear Vel  -> x: 0.0102, y: -0.0001, z: 0.0000
+[INFO] [1776518720.701186338] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1081
+[INFO] [1776518720.701607172] [odom_subscriber]: ---
+[INFO] [1776518720.733131642] [odom_subscriber]: Position    -> x: 1.6685, y: -0.4923, z: 0.0085
+[INFO] [1776518720.733885027] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.7158, w: 0.6983
+[INFO] [1776518720.734462830] [odom_subscriber]: Linear Vel  -> x: 0.0102, y: 0.0000, z: 0.0000
+[INFO] [1776518720.735000254] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1074
+[INFO] [1776518720.735504259] [odom_subscriber]: ---
+[INFO] [1776518720.768739213] [odom_subscriber]: Position    -> x: 1.6685, y: -0.4919, z: 0.0085
+[INFO] [1776518720.770273427] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.7147, w: 0.6995
+[INFO] [1776518720.771455081] [odom_subscriber]: Linear Vel  -> x: 0.0102, y: 0.0000, z: 0.0000
+[INFO] [1776518720.772633482] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0935
+[INFO] [1776518720.773675228] [odom_subscriber]: ---
+[INFO] [1776518720.802253899] [odom_subscriber]: Position    -> x: 1.6685, y: -0.4914, z: 0.0085
+[INFO] [1776518720.803240359] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.7135, w: 0.7006
+[INFO] [1776518720.803597783] [odom_subscriber]: Linear Vel  -> x: 0.0150, y: -0.0000, z: 0.0000
+[INFO] [1776518720.803895454] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0974
+[INFO] [1776518720.804182994] [odom_subscriber]: ---
+[INFO] [1776518720.837540270] [odom_subscriber]: Position    -> x: 1.6684, y: -0.4909, z: 0.0085
+[INFO] [1776518720.838139825] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.7123, w: 0.7018
+[INFO] [1776518720.838692836] [odom_subscriber]: Linear Vel  -> x: 0.0152, y: 0.0000, z: 0.0000
+[INFO] [1776518720.839123551] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1041
+[INFO] [1776518720.839573531] [odom_subscriber]: ---
+[INFO] [1776518720.870947616] [odom_subscriber]: Position    -> x: 1.6684, y: -0.4904, z: 0.0085
+[INFO] [1776518720.871416927] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.7111, w: 0.7031
+[INFO] [1776518720.871793126] [odom_subscriber]: Linear Vel  -> x: 0.0152, y: 0.0000, z: 0.0000
+[INFO] [1776518720.872160871] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1003
+[INFO] [1776518720.872616118] [odom_subscriber]: ---
+[INFO] [1776518720.904181256] [odom_subscriber]: Position    -> x: 1.6684, y: -0.4897, z: 0.0085
+[INFO] [1776518720.905120971] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.7099, w: 0.7043
+[INFO] [1776518720.905841189] [odom_subscriber]: Linear Vel  -> x: 0.0202, y: 0.0000, z: 0.0000
+[INFO] [1776518720.906225980] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0975
+[INFO] [1776518720.906595243] [odom_subscriber]: ---
+[INFO] [1776518720.938442536] [odom_subscriber]: Position    -> x: 1.6684, y: -0.4890, z: 0.0085
+[INFO] [1776518720.939459220] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0021, z: 0.7087, w: 0.7055
+[INFO] [1776518720.940117278] [odom_subscriber]: Linear Vel  -> x: 0.0199, y: -0.0000, z: 0.0000
+[INFO] [1776518720.940488548] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1003
+[INFO] [1776518720.940827083] [odom_subscriber]: ---
+[INFO] [1776518720.973033300] [odom_subscriber]: Position    -> x: 1.6684, y: -0.4883, z: 0.0085
+[INFO] [1776518720.973572801] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0021, z: 0.7075, w: 0.7067
+[INFO] [1776518720.973973072] [odom_subscriber]: Linear Vel  -> x: 0.0200, y: -0.0000, z: 0.0000
+[INFO] [1776518720.974332353] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1011
+[INFO] [1776518720.974686152] [odom_subscriber]: ---
+[INFO] [1776518721.008043572] [odom_subscriber]: Position    -> x: 1.6684, y: -0.4876, z: 0.0085
+[INFO] [1776518721.008748626] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0021, z: 0.7063, w: 0.7079
+[INFO] [1776518721.009335083] [odom_subscriber]: Linear Vel  -> x: 0.0202, y: 0.0000, z: 0.0000
+[INFO] [1776518721.009842854] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0994
+[INFO] [1776518721.010338585] [odom_subscriber]: ---
+[INFO] [1776518721.041936869] [odom_subscriber]: Position    -> x: 1.6684, y: -0.4869, z: 0.0085
+[INFO] [1776518721.042598916] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0021, z: 0.7051, w: 0.7091
+[INFO] [1776518721.043031226] [odom_subscriber]: Linear Vel  -> x: 0.0202, y: 0.0000, z: 0.0000
+[INFO] [1776518721.043441869] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0994
+[INFO] [1776518721.043813308] [odom_subscriber]: ---
+[INFO] [1776518721.075886669] [odom_subscriber]: Position    -> x: 1.6684, y: -0.4862, z: 0.0085
+[INFO] [1776518721.076394487] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0021, z: 0.7039, w: 0.7103
+[INFO] [1776518721.076813746] [odom_subscriber]: Linear Vel  -> x: 0.0201, y: 0.0000, z: 0.0000
+[INFO] [1776518721.077177277] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1004
+[INFO] [1776518721.077549955] [odom_subscriber]: ---
+[INFO] [1776518721.110498006] [odom_subscriber]: Position    -> x: 1.6684, y: -0.4856, z: 0.0085
+[INFO] [1776518721.111040288] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0021, z: 0.7027, w: 0.7115
+[INFO] [1776518721.111605458] [odom_subscriber]: Linear Vel  -> x: 0.0201, y: 0.0000, z: 0.0000
+[INFO] [1776518721.112128141] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1001
+[INFO] [1776518721.112689763] [odom_subscriber]: ---
+[INFO] [1776518721.145415381] [odom_subscriber]: Position    -> x: 1.6684, y: -0.4849, z: 0.0085
+[INFO] [1776518721.146378768] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0021, z: 0.7015, w: 0.7127
+[INFO] [1776518721.147275332] [odom_subscriber]: Linear Vel  -> x: 0.0202, y: 0.0000, z: 0.0000
+[INFO] [1776518721.147940331] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0996
+[INFO] [1776518721.148551911] [odom_subscriber]: ---
+[INFO] [1776518721.181069832] [odom_subscriber]: Position    -> x: 1.6685, y: -0.4842, z: 0.0085
+[INFO] [1776518721.181892144] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0021, z: 0.7003, w: 0.7138
+[INFO] [1776518721.182576451] [odom_subscriber]: Linear Vel  -> x: 0.0201, y: 0.0000, z: 0.0000
+[INFO] [1776518721.183288803] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0999
+[INFO] [1776518721.184138147] [odom_subscriber]: ---
+[INFO] [1776518721.215765127] [odom_subscriber]: Position    -> x: 1.6685, y: -0.4835, z: 0.0085
+[INFO] [1776518721.217142335] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.6991, w: 0.7150
+[INFO] [1776518721.218542816] [odom_subscriber]: Linear Vel  -> x: 0.0202, y: 0.0000, z: 0.0000
+[INFO] [1776518721.219928072] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1001
+[INFO] [1776518721.221208810] [odom_subscriber]: ---
+[INFO] [1776518721.250615045] [odom_subscriber]: Position    -> x: 1.6685, y: -0.4828, z: 0.0085
+[INFO] [1776518721.252405085] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.6979, w: 0.7162
+[INFO] [1776518721.254328566] [odom_subscriber]: Linear Vel  -> x: 0.0201, y: 0.0000, z: 0.0000
+[INFO] [1776518721.255755787] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0999
+[INFO] [1776518721.256438254] [odom_subscriber]: ---
+[INFO] [1776518721.283797610] [odom_subscriber]: Position    -> x: 1.6685, y: -0.4821, z: 0.0085
+[INFO] [1776518721.284245910] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.6966, w: 0.7174
+[INFO] [1776518721.284644859] [odom_subscriber]: Linear Vel  -> x: 0.0202, y: 0.0000, z: 0.0000
+[INFO] [1776518721.285030252] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0998
+[INFO] [1776518721.285558970] [odom_subscriber]: ---
+[INFO] [1776518721.319309755] [odom_subscriber]: Position    -> x: 1.6685, y: -0.4813, z: 0.0085
+[INFO] [1776518721.319859210] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.6954, w: 0.7186
+[INFO] [1776518721.320267644] [odom_subscriber]: Linear Vel  -> x: 0.0250, y: 0.0000, z: 0.0000
+[INFO] [1776518721.320728441] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518721.321111160] [odom_subscriber]: ---
+[INFO] [1776518721.354163171] [odom_subscriber]: Position    -> x: 1.6686, y: -0.4802, z: 0.0085
+[INFO] [1776518721.355180340] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0021, z: 0.6942, w: 0.7198
+[INFO] [1776518721.356046118] [odom_subscriber]: Linear Vel  -> x: 0.0298, y: 0.0000, z: 0.0000
+[INFO] [1776518721.357030168] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518721.357922796] [odom_subscriber]: ---
+[INFO] [1776518721.387710340] [odom_subscriber]: Position    -> x: 1.6686, y: -0.4799, z: 0.0085
+[INFO] [1776518721.388207660] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.6935, w: 0.7204
+[INFO] [1776518721.388617577] [odom_subscriber]: Linear Vel  -> x: 0.0104, y: 0.0003, z: 0.0000
+[INFO] [1776518721.389000389] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0046
+[INFO] [1776518721.389365508] [odom_subscriber]: ---
+[INFO] [1776518721.421009325] [odom_subscriber]: Position    -> x: 1.6686, y: -0.4785, z: 0.0085
+[INFO] [1776518721.421389121] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0021, z: 0.6936, w: 0.7204
+[INFO] [1776518721.421691575] [odom_subscriber]: Linear Vel  -> x: 0.0406, y: 0.0002, z: 0.0000
+[INFO] [1776518721.422019000] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0156
+[INFO] [1776518721.422302575] [odom_subscriber]: ---
+[INFO] [1776518721.455263251] [odom_subscriber]: Position    -> x: 1.6687, y: -0.4768, z: 0.0085
+[INFO] [1776518721.456685818] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0021, z: 0.6925, w: 0.7214
+[INFO] [1776518721.457932283] [odom_subscriber]: Linear Vel  -> x: 0.0497, y: -0.0002, z: 0.0000
+[INFO] [1776518721.458520436] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1465
+[INFO] [1776518721.458975573] [odom_subscriber]: ---
+[INFO] [1776518721.490097660] [odom_subscriber]: Position    -> x: 1.6688, y: -0.4749, z: 0.0085
+[INFO] [1776518721.491326340] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0020, z: 0.6906, w: 0.7232
+[INFO] [1776518721.492423158] [odom_subscriber]: Linear Vel  -> x: 0.0547, y: -0.0001, z: 0.0000
+[INFO] [1776518721.493797804] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1366
+[INFO] [1776518721.494430073] [odom_subscriber]: ---
+[INFO] [1776518721.523751154] [odom_subscriber]: Position    -> x: 1.6689, y: -0.4729, z: 0.0086
+[INFO] [1776518721.524398857] [odom_subscriber]: Orientation -> x: -0.0018, y: 0.0020, z: 0.6894, w: 0.7243
+[INFO] [1776518721.524914699] [odom_subscriber]: Linear Vel  -> x: 0.0596, y: 0.0001, z: 0.0000
+[INFO] [1776518721.525404205] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0653
+[INFO] [1776518721.525848315] [odom_subscriber]: ---
+[INFO] [1776518721.558888676] [odom_subscriber]: Position    -> x: 1.6690, y: -0.4707, z: 0.0086
+[INFO] [1776518721.560299674] [odom_subscriber]: Orientation -> x: -0.0018, y: 0.0020, z: 0.6886, w: 0.7252
+[INFO] [1776518721.561976253] [odom_subscriber]: Linear Vel  -> x: 0.0647, y: 0.0000, z: 0.0000
+[INFO] [1776518721.563660670] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0884
+[INFO] [1776518721.564999013] [odom_subscriber]: ---
+[INFO] [1776518721.593128653] [odom_subscriber]: Position    -> x: 1.6691, y: -0.4683, z: 0.0086
+[INFO] [1776518721.594020668] [odom_subscriber]: Orientation -> x: -0.0018, y: 0.0020, z: 0.6872, w: 0.7264
+[INFO] [1776518721.594730768] [odom_subscriber]: Linear Vel  -> x: 0.0698, y: -0.0000, z: 0.0000
+[INFO] [1776518721.595400845] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1218
+[INFO] [1776518721.595979551] [odom_subscriber]: ---
+[INFO] [1776518721.628107009] [odom_subscriber]: Position    -> x: 1.6692, y: -0.4662, z: 0.0086
+[INFO] [1776518721.629493748] [odom_subscriber]: Orientation -> x: -0.0018, y: 0.0020, z: 0.6858, w: 0.7278
+[INFO] [1776518721.630699774] [odom_subscriber]: Linear Vel  -> x: 0.0596, y: 0.0000, z: 0.0000
+[INFO] [1776518721.631998616] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1043
+[INFO] [1776518721.633277627] [odom_subscriber]: ---
+[INFO] [1776518721.662240052] [odom_subscriber]: Position    -> x: 1.6694, y: -0.4633, z: 0.0086
+[INFO] [1776518721.663227793] [odom_subscriber]: Orientation -> x: -0.0018, y: 0.0020, z: 0.6846, w: 0.7289
+[INFO] [1776518721.663929169] [odom_subscriber]: Linear Vel  -> x: 0.0848, y: 0.0001, z: 0.0000
+[INFO] [1776518721.664626261] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0879
+[INFO] [1776518721.665251147] [odom_subscriber]: ---
+[INFO] [1776518721.697149470] [odom_subscriber]: Position    -> x: 1.6696, y: -0.4603, z: 0.0086
+[INFO] [1776518721.698539161] [odom_subscriber]: Orientation -> x: -0.0018, y: 0.0020, z: 0.6835, w: 0.7300
+[INFO] [1776518721.699472285] [odom_subscriber]: Linear Vel  -> x: 0.0898, y: 0.0001, z: 0.0000
+[INFO] [1776518721.700315847] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518721.700949004] [odom_subscriber]: ---
+[INFO] [1776518721.732528616] [odom_subscriber]: Position    -> x: 1.6698, y: -0.4571, z: 0.0086
+[INFO] [1776518721.734260184] [odom_subscriber]: Orientation -> x: -0.0018, y: 0.0020, z: 0.6822, w: 0.7312
+[INFO] [1776518721.735869038] [odom_subscriber]: Linear Vel  -> x: 0.0948, y: 0.0001, z: 0.0000
+[INFO] [1776518721.736889584] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1065
+[INFO] [1776518721.737538892] [odom_subscriber]: ---
+[INFO] [1776518721.767933852] [odom_subscriber]: Position    -> x: 1.6701, y: -0.4537, z: 0.0086
+[INFO] [1776518721.768759803] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0020, z: 0.6809, w: 0.7324
+[INFO] [1776518721.769463647] [odom_subscriber]: Linear Vel  -> x: 0.0998, y: 0.0001, z: 0.0000
+[INFO] [1776518721.770149814] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0983
+[INFO] [1776518721.770744758] [odom_subscriber]: ---
+[INFO] [1776518721.802397856] [odom_subscriber]: Position    -> x: 1.6703, y: -0.4501, z: 0.0085
+[INFO] [1776518721.802995356] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0020, z: 0.6797, w: 0.7335
+[INFO] [1776518721.803283328] [odom_subscriber]: Linear Vel  -> x: 0.1048, y: 0.0001, z: 0.0000
+[INFO] [1776518721.803572095] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0967
+[INFO] [1776518721.803838251] [odom_subscriber]: ---
+[INFO] [1776518721.836743250] [odom_subscriber]: Position    -> x: 1.6706, y: -0.4463, z: 0.0085
+[INFO] [1776518721.837308516] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0021, z: 0.6785, w: 0.7346
+[INFO] [1776518721.837748683] [odom_subscriber]: Linear Vel  -> x: 0.1102, y: 0.0000, z: 0.0000
+[INFO] [1776518721.838187301] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1016
+[INFO] [1776518721.838585947] [odom_subscriber]: ---
+[INFO] [1776518721.871394319] [odom_subscriber]: Position    -> x: 1.6709, y: -0.4431, z: 0.0085
+[INFO] [1776518721.871966321] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0021, z: 0.6772, w: 0.7358
+[INFO] [1776518721.872412955] [odom_subscriber]: Linear Vel  -> x: 0.0945, y: 0.0000, z: 0.0000
+[INFO] [1776518721.872797725] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1003
+[INFO] [1776518721.873247580] [odom_subscriber]: ---
+[INFO] [1776518721.906307838] [odom_subscriber]: Position    -> x: 1.6712, y: -0.4389, z: 0.0085
+[INFO] [1776518721.907397475] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.6760, w: 0.7369
+[INFO] [1776518721.907901495] [odom_subscriber]: Linear Vel  -> x: 0.1248, y: 0.0002, z: 0.0000
+[INFO] [1776518721.908377862] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0985
+[INFO] [1776518721.908908080] [odom_subscriber]: ---
+[INFO] [1776518721.939054484] [odom_subscriber]: Position    -> x: 1.6716, y: -0.4345, z: 0.0085
+[INFO] [1776518721.939525885] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.6747, w: 0.7381
+[INFO] [1776518721.939877968] [odom_subscriber]: Linear Vel  -> x: 0.1298, y: 0.0002, z: 0.0000
+[INFO] [1776518721.940203229] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1001
+[INFO] [1776518721.940578746] [odom_subscriber]: ---
+[INFO] [1776518721.975429455] [odom_subscriber]: Position    -> x: 1.6720, y: -0.4299, z: 0.0085
+[INFO] [1776518721.976881745] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.6735, w: 0.7392
+[INFO] [1776518721.977971184] [odom_subscriber]: Linear Vel  -> x: 0.1347, y: 0.0002, z: 0.0000
+[INFO] [1776518721.979083185] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1007
+[INFO] [1776518721.980559535] [odom_subscriber]: ---
+[INFO] [1776518722.010379786] [odom_subscriber]: Position    -> x: 1.6725, y: -0.4251, z: 0.0085
+[INFO] [1776518722.011770171] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0021, z: 0.6722, w: 0.7404
+[INFO] [1776518722.012238401] [odom_subscriber]: Linear Vel  -> x: 0.1398, y: 0.0002, z: 0.0000
+[INFO] [1776518722.012646346] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0997
+[INFO] [1776518722.013031414] [odom_subscriber]: ---
+[INFO] [1776518722.044990696] [odom_subscriber]: Position    -> x: 1.6730, y: -0.4204, z: 0.0085
+[INFO] [1776518722.046780266] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0020, z: 0.6709, w: 0.7415
+[INFO] [1776518722.047465757] [odom_subscriber]: Linear Vel  -> x: 0.1398, y: 0.0002, z: 0.0000
+[INFO] [1776518722.047936228] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0996
+[INFO] [1776518722.048523846] [odom_subscriber]: ---
+[INFO] [1776518722.078955408] [odom_subscriber]: Position    -> x: 1.6734, y: -0.4157, z: 0.0085
+[INFO] [1776518722.080565184] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0020, z: 0.6697, w: 0.7426
+[INFO] [1776518722.082036747] [odom_subscriber]: Linear Vel  -> x: 0.1398, y: 0.0001, z: 0.0000
+[INFO] [1776518722.083274467] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1002
+[INFO] [1776518722.084481851] [odom_subscriber]: ---
+[INFO] [1776518722.112182804] [odom_subscriber]: Position    -> x: 1.6740, y: -0.4108, z: 0.0085
+[INFO] [1776518722.112780674] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0020, z: 0.6684, w: 0.7438
+[INFO] [1776518722.113022029] [odom_subscriber]: Linear Vel  -> x: 0.1448, y: 0.0001, z: 0.0000
+[INFO] [1776518722.113480903] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1001
+[INFO] [1776518722.113703744] [odom_subscriber]: ---
+[INFO] [1776518722.147544303] [odom_subscriber]: Position    -> x: 1.6745, y: -0.4058, z: 0.0085
+[INFO] [1776518722.148954935] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0020, z: 0.6672, w: 0.7449
+[INFO] [1776518722.150017734] [odom_subscriber]: Linear Vel  -> x: 0.1448, y: 0.0001, z: 0.0000
+[INFO] [1776518722.151041921] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0997
+[INFO] [1776518722.152171746] [odom_subscriber]: ---
+[INFO] [1776518722.182179760] [odom_subscriber]: Position    -> x: 1.6750, y: -0.4009, z: 0.0085
+[INFO] [1776518722.183694788] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0020, z: 0.6659, w: 0.7460
+[INFO] [1776518722.185554668] [odom_subscriber]: Linear Vel  -> x: 0.1452, y: 0.0000, z: 0.0000
+[INFO] [1776518722.187160606] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0998
+[INFO] [1776518722.188599077] [odom_subscriber]: ---
+[INFO] [1776518722.215648109] [odom_subscriber]: Position    -> x: 1.6756, y: -0.3959, z: 0.0085
+[INFO] [1776518722.216895881] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0020, z: 0.6646, w: 0.7472
+[INFO] [1776518722.218230342] [odom_subscriber]: Linear Vel  -> x: 0.1498, y: 0.0001, z: 0.0000
+[INFO] [1776518722.219551574] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1001
+[INFO] [1776518722.220641528] [odom_subscriber]: ---
+[INFO] [1776518722.249415670] [odom_subscriber]: Position    -> x: 1.6762, y: -0.3908, z: 0.0085
+[INFO] [1776518722.250088750] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0020, z: 0.6633, w: 0.7483
+[INFO] [1776518722.250697122] [odom_subscriber]: Linear Vel  -> x: 0.1498, y: 0.0001, z: 0.0000
+[INFO] [1776518722.251318209] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0999
+[INFO] [1776518722.251944091] [odom_subscriber]: ---
+[INFO] [1776518722.284867771] [odom_subscriber]: Position    -> x: 1.6769, y: -0.3857, z: 0.0085
+[INFO] [1776518722.285675624] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0020, z: 0.6621, w: 0.7494
+[INFO] [1776518722.286150472] [odom_subscriber]: Linear Vel  -> x: 0.1498, y: 0.0001, z: 0.0000
+[INFO] [1776518722.286603852] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0998
+[INFO] [1776518722.287008942] [odom_subscriber]: ---
+[INFO] [1776518722.317805420] [odom_subscriber]: Position    -> x: 1.6775, y: -0.3805, z: 0.0085
+[INFO] [1776518722.318372223] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0020, z: 0.6608, w: 0.7506
+[INFO] [1776518722.318799807] [odom_subscriber]: Linear Vel  -> x: 0.1548, y: 0.0001, z: 0.0000
+[INFO] [1776518722.319110392] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518722.319491345] [odom_subscriber]: ---
+[INFO] [1776518722.352768649] [odom_subscriber]: Position    -> x: 1.6782, y: -0.3753, z: 0.0085
+[INFO] [1776518722.353336194] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0020, z: 0.6595, w: 0.7517
+[INFO] [1776518722.353896398] [odom_subscriber]: Linear Vel  -> x: 0.1547, y: 0.0001, z: 0.0000
+[INFO] [1776518722.354317265] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518722.354800694] [odom_subscriber]: ---
+[INFO] [1776518722.387855043] [odom_subscriber]: Position    -> x: 1.6789, y: -0.3700, z: 0.0085
+[INFO] [1776518722.389393541] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0020, z: 0.6582, w: 0.7528
+[INFO] [1776518722.390799283] [odom_subscriber]: Linear Vel  -> x: 0.1547, y: 0.0001, z: 0.0000
+[INFO] [1776518722.392163779] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0999
+[INFO] [1776518722.393539787] [odom_subscriber]: ---
+[INFO] [1776518722.422340011] [odom_subscriber]: Position    -> x: 1.6796, y: -0.3646, z: 0.0085
+[INFO] [1776518722.423748086] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0020, z: 0.6570, w: 0.7539
+[INFO] [1776518722.424376173] [odom_subscriber]: Linear Vel  -> x: 0.1596, y: 0.0001, z: 0.0000
+[INFO] [1776518722.424882103] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518722.425378337] [odom_subscriber]: ---
+[INFO] [1776518722.454877193] [odom_subscriber]: Position    -> x: 1.6804, y: -0.3592, z: 0.0085
+[INFO] [1776518722.455416099] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0020, z: 0.6557, w: 0.7550
+[INFO] [1776518722.455729759] [odom_subscriber]: Linear Vel  -> x: 0.1597, y: 0.0001, z: 0.0000
+[INFO] [1776518722.456007542] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518722.456280833] [odom_subscriber]: ---
+[INFO] [1776518722.490021265] [odom_subscriber]: Position    -> x: 1.6812, y: -0.3537, z: 0.0085
+[INFO] [1776518722.490722816] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0020, z: 0.6544, w: 0.7561
+[INFO] [1776518722.491514800] [odom_subscriber]: Linear Vel  -> x: 0.1646, y: 0.0001, z: 0.0000
+[INFO] [1776518722.492155066] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0999
+[INFO] [1776518722.492650442] [odom_subscriber]: ---
+[INFO] [1776518722.524150951] [odom_subscriber]: Position    -> x: 1.6820, y: -0.3481, z: 0.0085
+[INFO] [1776518722.524623557] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0020, z: 0.6531, w: 0.7573
+[INFO] [1776518722.525001004] [odom_subscriber]: Linear Vel  -> x: 0.1647, y: 0.0001, z: 0.0000
+[INFO] [1776518722.525465903] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0999
+[INFO] [1776518722.525787713] [odom_subscriber]: ---
+[INFO] [1776518722.559452959] [odom_subscriber]: Position    -> x: 1.6828, y: -0.3426, z: 0.0085
+[INFO] [1776518722.560580963] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0020, z: 0.6518, w: 0.7584
+[INFO] [1776518722.561115567] [odom_subscriber]: Linear Vel  -> x: 0.1653, y: -0.0000, z: 0.0000
+[INFO] [1776518722.561496969] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0999
+[INFO] [1776518722.561837744] [odom_subscriber]: ---
+[INFO] [1776518722.593559404] [odom_subscriber]: Position    -> x: 1.6837, y: -0.3369, z: 0.0085
+[INFO] [1776518722.594702858] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0020, z: 0.6505, w: 0.7595
+[INFO] [1776518722.595714539] [odom_subscriber]: Linear Vel  -> x: 0.1696, y: 0.0001, z: 0.0000
+[INFO] [1776518722.596165148] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518722.596494595] [odom_subscriber]: ---
+[INFO] [1776518722.627727573] [odom_subscriber]: Position    -> x: 1.6846, y: -0.3311, z: 0.0085
+[INFO] [1776518722.628745916] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0020, z: 0.6492, w: 0.7606
+[INFO] [1776518722.629748308] [odom_subscriber]: Linear Vel  -> x: 0.1696, y: 0.0000, z: 0.0000
+[INFO] [1776518722.630760183] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0999
+[INFO] [1776518722.631750824] [odom_subscriber]: ---
+[INFO] [1776518722.661845341] [odom_subscriber]: Position    -> x: 1.6855, y: -0.3254, z: 0.0085
+[INFO] [1776518722.662963944] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0020, z: 0.6480, w: 0.7617
+[INFO] [1776518722.664019216] [odom_subscriber]: Linear Vel  -> x: 0.1702, y: -0.0000, z: 0.0000
+[INFO] [1776518722.665034227] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0999
+[INFO] [1776518722.666088746] [odom_subscriber]: ---
+[INFO] [1776518722.695903469] [odom_subscriber]: Position    -> x: 1.6865, y: -0.3195, z: 0.0085
+[INFO] [1776518722.697102651] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0020, z: 0.6467, w: 0.7628
+[INFO] [1776518722.698613362] [odom_subscriber]: Linear Vel  -> x: 0.1744, y: 0.0000, z: 0.0000
+[INFO] [1776518722.699322819] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518722.700624807] [odom_subscriber]: ---
+[INFO] [1776518722.729729615] [odom_subscriber]: Position    -> x: 1.6875, y: -0.3137, z: 0.0085
+[INFO] [1776518722.730159789] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0019, z: 0.6454, w: 0.7639
+[INFO] [1776518722.730431631] [odom_subscriber]: Linear Vel  -> x: 0.1745, y: 0.0000, z: 0.0000
+[INFO] [1776518722.730682619] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0999
+[INFO] [1776518722.730922789] [odom_subscriber]: ---
+[INFO] [1776518722.763864291] [odom_subscriber]: Position    -> x: 1.6885, y: -0.3078, z: 0.0085
+[INFO] [1776518722.764747913] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0019, z: 0.6441, w: 0.7650
+[INFO] [1776518722.765478727] [odom_subscriber]: Linear Vel  -> x: 0.1746, y: 0.0000, z: 0.0000
+[INFO] [1776518722.766233721] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0999
+[INFO] [1776518722.767032998] [odom_subscriber]: ---
+[INFO] [1776518722.799810086] [odom_subscriber]: Position    -> x: 1.6895, y: -0.3018, z: 0.0085
+[INFO] [1776518722.801319699] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0019, z: 0.6428, w: 0.7661
+[INFO] [1776518722.802591626] [odom_subscriber]: Linear Vel  -> x: 0.1795, y: 0.0000, z: 0.0000
+[INFO] [1776518722.803885096] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518722.805177647] [odom_subscriber]: ---
+[INFO] [1776518722.834661361] [odom_subscriber]: Position    -> x: 1.6906, y: -0.2957, z: 0.0085
+[INFO] [1776518722.836216871] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0019, z: 0.6415, w: 0.7672
+[INFO] [1776518722.837727834] [odom_subscriber]: Linear Vel  -> x: 0.1797, y: 0.0000, z: 0.0000
+[INFO] [1776518722.838440609] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518722.839033720] [odom_subscriber]: ---
+[INFO] [1776518722.868006179] [odom_subscriber]: Position    -> x: 1.6917, y: -0.2897, z: 0.0085
+[INFO] [1776518722.868475858] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0020, z: 0.6402, w: 0.7682
+[INFO] [1776518722.868831239] [odom_subscriber]: Linear Vel  -> x: 0.1797, y: 0.0000, z: 0.0000
+[INFO] [1776518722.869180985] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0999
+[INFO] [1776518722.869520339] [odom_subscriber]: ---
+[INFO] [1776518722.902646139] [odom_subscriber]: Position    -> x: 1.6928, y: -0.2835, z: 0.0085
+[INFO] [1776518722.903273134] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0020, z: 0.6388, w: 0.7693
+[INFO] [1776518722.903697437] [odom_subscriber]: Linear Vel  -> x: 0.1846, y: 0.0001, z: 0.0000
+[INFO] [1776518722.904088791] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518722.904487458] [odom_subscriber]: ---
+[INFO] [1776518722.936584043] [odom_subscriber]: Position    -> x: 1.6940, y: -0.2773, z: 0.0085
+[INFO] [1776518722.937165638] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0020, z: 0.6375, w: 0.7704
+[INFO] [1776518722.937649033] [odom_subscriber]: Linear Vel  -> x: 0.1847, y: 0.0001, z: 0.0000
+[INFO] [1776518722.938066277] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518722.938491751] [odom_subscriber]: ---
+[INFO] [1776518722.972446381] [odom_subscriber]: Position    -> x: 1.6952, y: -0.2711, z: 0.0085
+[INFO] [1776518722.973865639] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.6362, w: 0.7715
+[INFO] [1776518722.975145816] [odom_subscriber]: Linear Vel  -> x: 0.1852, y: -0.0001, z: 0.0000
+[INFO] [1776518722.976559539] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0999
+[INFO] [1776518722.978090421] [odom_subscriber]: ---
+[INFO] [1776518723.007485517] [odom_subscriber]: Position    -> x: 1.6964, y: -0.2648, z: 0.0085
+[INFO] [1776518723.008325958] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.6349, w: 0.7726
+[INFO] [1776518723.009107916] [odom_subscriber]: Linear Vel  -> x: 0.1897, y: 0.0001, z: 0.0000
+[INFO] [1776518723.010164543] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518723.011370071] [odom_subscriber]: ---
+[INFO] [1776518723.042908484] [odom_subscriber]: Position    -> x: 1.6977, y: -0.2585, z: 0.0085
+[INFO] [1776518723.044334022] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.6336, w: 0.7737
+[INFO] [1776518723.045587707] [odom_subscriber]: Linear Vel  -> x: 0.1902, y: -0.0000, z: 0.0000
+[INFO] [1776518723.046933576] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518723.048090973] [odom_subscriber]: ---
+[INFO] [1776518723.076812400] [odom_subscriber]: Position    -> x: 1.6990, y: -0.2521, z: 0.0085
+[INFO] [1776518723.078234964] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.6323, w: 0.7747
+[INFO] [1776518723.079132465] [odom_subscriber]: Linear Vel  -> x: 0.1898, y: 0.0001, z: 0.0000
+[INFO] [1776518723.079654188] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0999
+[INFO] [1776518723.080120011] [odom_subscriber]: ---
+[INFO] [1776518723.110132546] [odom_subscriber]: Position    -> x: 1.7003, y: -0.2456, z: 0.0085
+[INFO] [1776518723.110741036] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.6310, w: 0.7758
+[INFO] [1776518723.111201476] [odom_subscriber]: Linear Vel  -> x: 0.1947, y: 0.0001, z: 0.0000
+[INFO] [1776518723.111642210] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518723.112052609] [odom_subscriber]: ---
+[INFO] [1776518723.144530776] [odom_subscriber]: Position    -> x: 1.7017, y: -0.2391, z: 0.0085
+[INFO] [1776518723.145589199] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.6297, w: 0.7769
+[INFO] [1776518723.146022649] [odom_subscriber]: Linear Vel  -> x: 0.1948, y: 0.0001, z: 0.0000
+[INFO] [1776518723.146418255] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518723.146873535] [odom_subscriber]: ---
+[INFO] [1776518723.178879488] [odom_subscriber]: Position    -> x: 1.7031, y: -0.2326, z: 0.0085
+[INFO] [1776518723.179679114] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.6283, w: 0.7779
+[INFO] [1776518723.180337916] [odom_subscriber]: Linear Vel  -> x: 0.1952, y: -0.0001, z: 0.0000
+[INFO] [1776518723.180994821] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518723.181527316] [odom_subscriber]: ---
+[INFO] [1776518723.213704884] [odom_subscriber]: Position    -> x: 1.7045, y: -0.2260, z: 0.0085
+[INFO] [1776518723.214829755] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.6270, w: 0.7790
+[INFO] [1776518723.215859113] [odom_subscriber]: Linear Vel  -> x: 0.1997, y: 0.0001, z: 0.0000
+[INFO] [1776518723.216840376] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518723.217821711] [odom_subscriber]: ---
+[INFO] [1776518723.247113028] [odom_subscriber]: Position    -> x: 1.7060, y: -0.2193, z: 0.0085
+[INFO] [1776518723.248614291] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.6257, w: 0.7801
+[INFO] [1776518723.250178513] [odom_subscriber]: Linear Vel  -> x: 0.1998, y: 0.0001, z: 0.0000
+[INFO] [1776518723.251719877] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518723.253191829] [odom_subscriber]: ---
+[INFO] [1776518723.282336799] [odom_subscriber]: Position    -> x: 1.7075, y: -0.2127, z: 0.0085
+[INFO] [1776518723.283504976] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.6244, w: 0.7811
+[INFO] [1776518723.284320299] [odom_subscriber]: Linear Vel  -> x: 0.2002, y: -0.0001, z: 0.0000
+[INFO] [1776518723.285582919] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0999
+[INFO] [1776518723.286795307] [odom_subscriber]: ---
+[INFO] [1776518723.316088026] [odom_subscriber]: Position    -> x: 1.7090, y: -0.2059, z: 0.0085
+[INFO] [1776518723.317297860] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.6230, w: 0.7822
+[INFO] [1776518723.318558532] [odom_subscriber]: Linear Vel  -> x: 0.2048, y: 0.0001, z: 0.0000
+[INFO] [1776518723.319049225] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0999
+[INFO] [1776518723.319499876] [odom_subscriber]: ---
+[INFO] [1776518723.351289267] [odom_subscriber]: Position    -> x: 1.7106, y: -0.1991, z: 0.0085
+[INFO] [1776518723.352855921] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0019, z: 0.6217, w: 0.7832
+[INFO] [1776518723.354268051] [odom_subscriber]: Linear Vel  -> x: 0.2048, y: 0.0001, z: 0.0000
+[INFO] [1776518723.355637381] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518723.357007924] [odom_subscriber]: ---
+[INFO] [1776518723.386536035] [odom_subscriber]: Position    -> x: 1.7122, y: -0.1923, z: 0.0085
+[INFO] [1776518723.387842800] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0019, z: 0.6204, w: 0.7843
+[INFO] [1776518723.388940596] [odom_subscriber]: Linear Vel  -> x: 0.2052, y: -0.0001, z: 0.0000
+[INFO] [1776518723.389793132] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518723.390950511] [odom_subscriber]: ---
+[INFO] [1776518723.420418421] [odom_subscriber]: Position    -> x: 1.7138, y: -0.1853, z: 0.0085
+[INFO] [1776518723.421685800] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0019, z: 0.6190, w: 0.7854
+[INFO] [1776518723.422961572] [odom_subscriber]: Linear Vel  -> x: 0.2098, y: 0.0001, z: 0.0000
+[INFO] [1776518723.424130330] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518723.425233175] [odom_subscriber]: ---
+[INFO] [1776518723.454456905] [odom_subscriber]: Position    -> x: 1.7155, y: -0.1784, z: 0.0085
+[INFO] [1776518723.455699173] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.6177, w: 0.7864
+[INFO] [1776518723.456947191] [odom_subscriber]: Linear Vel  -> x: 0.2099, y: 0.0001, z: 0.0000
+[INFO] [1776518723.458103731] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0999
+[INFO] [1776518723.459237528] [odom_subscriber]: ---
+[INFO] [1776518723.489404509] [odom_subscriber]: Position    -> x: 1.7172, y: -0.1715, z: 0.0085
+[INFO] [1776518723.489947839] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.6164, w: 0.7875
+[INFO] [1776518723.490345037] [odom_subscriber]: Linear Vel  -> x: 0.2099, y: 0.0001, z: 0.0000
+[INFO] [1776518723.490775996] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518723.491213281] [odom_subscriber]: ---
+[INFO] [1776518723.523290976] [odom_subscriber]: Position    -> x: 1.7190, y: -0.1644, z: 0.0085
+[INFO] [1776518723.524123101] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.6150, w: 0.7885
+[INFO] [1776518723.524680855] [odom_subscriber]: Linear Vel  -> x: 0.2148, y: 0.0001, z: 0.0000
+[INFO] [1776518723.525102173] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518723.525522473] [odom_subscriber]: ---
+[INFO] [1776518723.557636246] [odom_subscriber]: Position    -> x: 1.7208, y: -0.1573, z: 0.0085
+[INFO] [1776518723.558133119] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.6137, w: 0.7895
+[INFO] [1776518723.558564675] [odom_subscriber]: Linear Vel  -> x: 0.2153, y: -0.0001, z: 0.0000
+[INFO] [1776518723.559092713] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0999
+[INFO] [1776518723.559435065] [odom_subscriber]: ---
+[INFO] [1776518723.594560806] [odom_subscriber]: Position    -> x: 1.7226, y: -0.1502, z: 0.0085
+[INFO] [1776518723.595905463] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.6123, w: 0.7906
+[INFO] [1776518723.596869879] [odom_subscriber]: Linear Vel  -> x: 0.2149, y: 0.0001, z: 0.0000
+[INFO] [1776518723.598002813] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518723.598895562] [odom_subscriber]: ---
+[INFO] [1776518723.629670498] [odom_subscriber]: Position    -> x: 1.7245, y: -0.1429, z: 0.0085
+[INFO] [1776518723.631006498] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.6110, w: 0.7916
+[INFO] [1776518723.632279227] [odom_subscriber]: Linear Vel  -> x: 0.2203, y: -0.0001, z: 0.0000
+[INFO] [1776518723.633572768] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0999
+[INFO] [1776518723.634798934] [odom_subscriber]: ---
+[INFO] [1776518723.663614758] [odom_subscriber]: Position    -> x: 1.7264, y: -0.1357, z: 0.0085
+[INFO] [1776518723.664782885] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.6097, w: 0.7927
+[INFO] [1776518723.665961238] [odom_subscriber]: Linear Vel  -> x: 0.2198, y: 0.0001, z: 0.0000
+[INFO] [1776518723.667055684] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518723.668089717] [odom_subscriber]: ---
+[INFO] [1776518723.697725191] [odom_subscriber]: Position    -> x: 1.7283, y: -0.1285, z: 0.0085
+[INFO] [1776518723.699295613] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.6083, w: 0.7937
+[INFO] [1776518723.701276537] [odom_subscriber]: Linear Vel  -> x: 0.2199, y: 0.0001, z: 0.0000
+[INFO] [1776518723.702931517] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518723.704432754] [odom_subscriber]: ---
+[INFO] [1776518723.732724183] [odom_subscriber]: Position    -> x: 1.7303, y: -0.1212, z: 0.0085
+[INFO] [1776518723.734599590] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.6070, w: 0.7947
+[INFO] [1776518723.736090252] [odom_subscriber]: Linear Vel  -> x: 0.2199, y: 0.0001, z: 0.0000
+[INFO] [1776518723.737560597] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518723.738939409] [odom_subscriber]: ---
+[INFO] [1776518723.766997889] [odom_subscriber]: Position    -> x: 1.7323, y: -0.1140, z: 0.0085
+[INFO] [1776518723.768570974] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.6056, w: 0.7958
+[INFO] [1776518723.770008599] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: -0.0001, z: 0.0000
+[INFO] [1776518723.771747365] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518723.773086822] [odom_subscriber]: ---
+[INFO] [1776518723.802113086] [odom_subscriber]: Position    -> x: 1.7343, y: -0.1068, z: 0.0085
+[INFO] [1776518723.803556848] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.6042, w: 0.7968
+[INFO] [1776518723.805741951] [odom_subscriber]: Linear Vel  -> x: 0.2200, y: 0.0001, z: 0.0000
+[INFO] [1776518723.807296021] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518723.808295408] [odom_subscriber]: ---
+[INFO] [1776518723.835879847] [odom_subscriber]: Position    -> x: 1.7363, y: -0.0996, z: 0.0085
+[INFO] [1776518723.836232056] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.6029, w: 0.7978
+[INFO] [1776518723.836649939] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: -0.0001, z: 0.0000
+[INFO] [1776518723.836934836] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0999
+[INFO] [1776518723.837403663] [odom_subscriber]: ---
+[INFO] [1776518723.870572491] [odom_subscriber]: Position    -> x: 1.7383, y: -0.0924, z: 0.0085
+[INFO] [1776518723.871335424] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.6015, w: 0.7988
+[INFO] [1776518723.871952296] [odom_subscriber]: Linear Vel  -> x: 0.2201, y: 0.0001, z: 0.0000
+[INFO] [1776518723.872508916] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518723.873049941] [odom_subscriber]: ---
+[INFO] [1776518723.906447021] [odom_subscriber]: Position    -> x: 1.7404, y: -0.0852, z: 0.0085
+[INFO] [1776518723.907864252] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.6002, w: 0.7999
+[INFO] [1776518723.909073116] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: -0.0001, z: 0.0000
+[INFO] [1776518723.910402919] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518723.911591163] [odom_subscriber]: ---
+[INFO] [1776518723.940348266] [odom_subscriber]: Position    -> x: 1.7425, y: -0.0780, z: 0.0085
+[INFO] [1776518723.941748421] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.5988, w: 0.8009
+[INFO] [1776518723.942317472] [odom_subscriber]: Linear Vel  -> x: 0.2201, y: 0.0001, z: 0.0000
+[INFO] [1776518723.942755257] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0999
+[INFO] [1776518723.943167370] [odom_subscriber]: ---
+[INFO] [1776518723.974713046] [odom_subscriber]: Position    -> x: 1.7447, y: -0.0708, z: 0.0085
+[INFO] [1776518723.975225781] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.5975, w: 0.8019
+[INFO] [1776518723.975628956] [odom_subscriber]: Linear Vel  -> x: 0.2201, y: 0.0001, z: 0.0000
+[INFO] [1776518723.976073489] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518723.976524619] [odom_subscriber]: ---
+[INFO] [1776518724.009430232] [odom_subscriber]: Position    -> x: 1.7468, y: -0.0637, z: 0.0085
+[INFO] [1776518724.010622947] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.5961, w: 0.8029
+[INFO] [1776518724.011832528] [odom_subscriber]: Linear Vel  -> x: 0.2201, y: 0.0001, z: 0.0000
+[INFO] [1776518724.013169686] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518724.014477792] [odom_subscriber]: ---
+[INFO] [1776518724.044084984] [odom_subscriber]: Position    -> x: 1.7490, y: -0.0565, z: 0.0085
+[INFO] [1776518724.045024912] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.5947, w: 0.8039
+[INFO] [1776518724.045838349] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: -0.0001, z: 0.0000
+[INFO] [1776518724.046550864] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0999
+[INFO] [1776518724.047196486] [odom_subscriber]: ---
+[INFO] [1776518724.077397274] [odom_subscriber]: Position    -> x: 1.7512, y: -0.0494, z: 0.0085
+[INFO] [1776518724.078336283] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.5934, w: 0.8049
+[INFO] [1776518724.079212877] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: -0.0001, z: 0.0000
+[INFO] [1776518724.080056216] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518724.080913870] [odom_subscriber]: ---
+[INFO] [1776518724.111243252] [odom_subscriber]: Position    -> x: 1.7534, y: -0.0422, z: 0.0085
+[INFO] [1776518724.111790449] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.5920, w: 0.8059
+[INFO] [1776518724.112212820] [odom_subscriber]: Linear Vel  -> x: 0.2201, y: 0.0001, z: 0.0000
+[INFO] [1776518724.112630872] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518724.113050033] [odom_subscriber]: ---
+[INFO] [1776518724.147137901] [odom_subscriber]: Position    -> x: 1.7557, y: -0.0351, z: 0.0085
+[INFO] [1776518724.148180372] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.5906, w: 0.8069
+[INFO] [1776518724.148959073] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: -0.0001, z: 0.0000
+[INFO] [1776518724.149541924] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0999
+[INFO] [1776518724.150858442] [odom_subscriber]: ---
+[INFO] [1776518724.180918147] [odom_subscriber]: Position    -> x: 1.7579, y: -0.0279, z: 0.0085
+[INFO] [1776518724.181348462] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.5893, w: 0.8079
+[INFO] [1776518724.181784021] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: 0.0001, z: 0.0000
+[INFO] [1776518724.182128860] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518724.182402505] [odom_subscriber]: ---
+[INFO] [1776518724.214005821] [odom_subscriber]: Position    -> x: 1.7602, y: -0.0208, z: 0.0085
+[INFO] [1776518724.214448767] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.5879, w: 0.8089
+[INFO] [1776518724.214791447] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: 0.0002, z: 0.0000
+[INFO] [1776518724.215127800] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518724.215448666] [odom_subscriber]: ---
+[INFO] [1776518724.249587894] [odom_subscriber]: Position    -> x: 1.7626, y: -0.0137, z: 0.0085
+[INFO] [1776518724.251594953] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.5865, w: 0.8099
+[INFO] [1776518724.253189378] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: 0.0002, z: 0.0000
+[INFO] [1776518724.254533982] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0999
+[INFO] [1776518724.255762354] [odom_subscriber]: ---
+[INFO] [1776518724.283239074] [odom_subscriber]: Position    -> x: 1.7649, y: -0.0066, z: 0.0085
+[INFO] [1776518724.284194449] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.5851, w: 0.8109
+[INFO] [1776518724.285058222] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: -0.0001, z: 0.0000
+[INFO] [1776518724.285953069] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0999
+[INFO] [1776518724.287180125] [odom_subscriber]: ---
+[INFO] [1776518724.318453460] [odom_subscriber]: Position    -> x: 1.7673, y: 0.0005, z: 0.0085
+[INFO] [1776518724.319319871] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.5837, w: 0.8119
+[INFO] [1776518724.320100343] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: -0.0001, z: 0.0000
+[INFO] [1776518724.320846296] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518724.321524274] [odom_subscriber]: ---
+[INFO] [1776518724.351572572] [odom_subscriber]: Position    -> x: 1.7697, y: 0.0076, z: 0.0085
+[INFO] [1776518724.351973368] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.5824, w: 0.8129
+[INFO] [1776518724.352248849] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: 0.0001, z: 0.0000
+[INFO] [1776518724.352559026] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518724.352828732] [odom_subscriber]: ---
+[INFO] [1776518724.386423038] [odom_subscriber]: Position    -> x: 1.7721, y: 0.0147, z: 0.0085
+[INFO] [1776518724.386784234] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.5810, w: 0.8139
+[INFO] [1776518724.387054499] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: 0.0001, z: 0.0000
+[INFO] [1776518724.387298882] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518724.387542031] [odom_subscriber]: ---
+[INFO] [1776518724.421231191] [odom_subscriber]: Position    -> x: 1.7745, y: 0.0218, z: 0.0085
+[INFO] [1776518724.422863308] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.5796, w: 0.8149
+[INFO] [1776518724.424143906] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: 0.0002, z: 0.0000
+[INFO] [1776518724.425415792] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518724.426415107] [odom_subscriber]: ---
+[INFO] [1776518724.455028914] [odom_subscriber]: Position    -> x: 1.7770, y: 0.0288, z: 0.0085
+[INFO] [1776518724.455717779] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.5782, w: 0.8159
+[INFO] [1776518724.456278716] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: 0.0002, z: 0.0000
+[INFO] [1776518724.456809683] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0999
+[INFO] [1776518724.457246186] [odom_subscriber]: ---
+[INFO] [1776518724.489715687] [odom_subscriber]: Position    -> x: 1.7795, y: 0.0359, z: 0.0085
+[INFO] [1776518724.490738321] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.5768, w: 0.8169
+[INFO] [1776518724.491708393] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: -0.0001, z: 0.0000
+[INFO] [1776518724.492522520] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0999
+[INFO] [1776518724.492844433] [odom_subscriber]: ---
+[INFO] [1776518724.523597006] [odom_subscriber]: Position    -> x: 1.7820, y: 0.0429, z: 0.0085
+[INFO] [1776518724.524455894] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.5754, w: 0.8178
+[INFO] [1776518724.524906268] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: -0.0001, z: 0.0000
+[INFO] [1776518724.525194309] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518724.525489255] [odom_subscriber]: ---
+[INFO] [1776518724.558122814] [odom_subscriber]: Position    -> x: 1.7846, y: 0.0500, z: 0.0085
+[INFO] [1776518724.558683569] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.5740, w: 0.8188
+[INFO] [1776518724.559111069] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: 0.0001, z: 0.0000
+[INFO] [1776518724.559519562] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518724.559871529] [odom_subscriber]: ---
+[INFO] [1776518724.593023926] [odom_subscriber]: Position    -> x: 1.7871, y: 0.0570, z: 0.0085
+[INFO] [1776518724.594051939] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.5727, w: 0.8198
+[INFO] [1776518724.595757809] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: -0.0001, z: 0.0000
+[INFO] [1776518724.597107307] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518724.598135715] [odom_subscriber]: ---
+[INFO] [1776518724.627044319] [odom_subscriber]: Position    -> x: 1.7897, y: 0.0640, z: 0.0085
+[INFO] [1776518724.628260142] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.5713, w: 0.8208
+[INFO] [1776518724.628785553] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: 0.0002, z: 0.0000
+[INFO] [1776518724.629436805] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518724.629816677] [odom_subscriber]: ---
+[INFO] [1776518724.660865112] [odom_subscriber]: Position    -> x: 1.7923, y: 0.0711, z: 0.0085
+[INFO] [1776518724.662323068] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.5699, w: 0.8217
+[INFO] [1776518724.663421081] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: 0.0001, z: 0.0000
+[INFO] [1776518724.664536281] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518724.665582416] [odom_subscriber]: ---
+[INFO] [1776518724.695207533] [odom_subscriber]: Position    -> x: 1.7950, y: 0.0781, z: 0.0085
+[INFO] [1776518724.696076760] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.5685, w: 0.8227
+[INFO] [1776518724.696758000] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: 0.0002, z: 0.0000
+[INFO] [1776518724.697428411] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518724.698043441] [odom_subscriber]: ---
+[INFO] [1776518724.729257721] [odom_subscriber]: Position    -> x: 1.7976, y: 0.0851, z: 0.0085
+[INFO] [1776518724.730564568] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.5671, w: 0.8237
+[INFO] [1776518724.731238720] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: 0.0002, z: 0.0000
+[INFO] [1776518724.731728159] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518724.732185534] [odom_subscriber]: ---
+[INFO] [1776518724.763625427] [odom_subscriber]: Position    -> x: 1.8003, y: 0.0921, z: 0.0085
+[INFO] [1776518724.765134319] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.5657, w: 0.8246
+[INFO] [1776518724.766685040] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: -0.0001, z: 0.0000
+[INFO] [1776518724.767850108] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0999
+[INFO] [1776518724.769033326] [odom_subscriber]: ---
+[INFO] [1776518724.798179324] [odom_subscriber]: Position    -> x: 1.8030, y: 0.0990, z: 0.0085
+[INFO] [1776518724.799477866] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.5643, w: 0.8256
+[INFO] [1776518724.800563461] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: -0.0001, z: 0.0000
+[INFO] [1776518724.801933896] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518724.803256466] [odom_subscriber]: ---
+[INFO] [1776518724.832757042] [odom_subscriber]: Position    -> x: 1.8057, y: 0.1060, z: 0.0085
+[INFO] [1776518724.833508719] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.5629, w: 0.8265
+[INFO] [1776518724.833939410] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: 0.0001, z: 0.0000
+[INFO] [1776518724.834304881] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518724.834650797] [odom_subscriber]: ---
+[INFO] [1776518724.867339098] [odom_subscriber]: Position    -> x: 1.8085, y: 0.1130, z: 0.0085
+[INFO] [1776518724.867783004] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.5615, w: 0.8275
+[INFO] [1776518724.868118979] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: 0.0002, z: 0.0000
+[INFO] [1776518724.868446705] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518724.868741393] [odom_subscriber]: ---
+[INFO] [1776518724.900803785] [odom_subscriber]: Position    -> x: 1.8113, y: 0.1199, z: 0.0085
+[INFO] [1776518724.901391988] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.5601, w: 0.8285
+[INFO] [1776518724.902194619] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: 0.0002, z: 0.0000
+[INFO] [1776518724.902920280] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518724.903592014] [odom_subscriber]: ---
+[INFO] [1776518724.935930984] [odom_subscriber]: Position    -> x: 1.8141, y: 0.1269, z: 0.0085
+[INFO] [1776518724.937095541] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0020, z: 0.5586, w: 0.8294
+[INFO] [1776518724.938261714] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: 0.0002, z: 0.0000
+[INFO] [1776518724.939248662] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0999
+[INFO] [1776518724.940391920] [odom_subscriber]: ---
+[INFO] [1776518724.970605121] [odom_subscriber]: Position    -> x: 1.8169, y: 0.1338, z: 0.0085
+[INFO] [1776518724.971601441] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0021, z: 0.5572, w: 0.8304
+[INFO] [1776518724.972642591] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: -0.0001, z: 0.0000
+[INFO] [1776518724.973144375] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0999
+[INFO] [1776518724.973585648] [odom_subscriber]: ---
+[INFO] [1776518725.003937697] [odom_subscriber]: Position    -> x: 1.8197, y: 0.1407, z: 0.0085
+[INFO] [1776518725.004554000] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0021, z: 0.5558, w: 0.8313
+[INFO] [1776518725.005234043] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: -0.0001, z: 0.0000
+[INFO] [1776518725.006452810] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518725.007529646] [odom_subscriber]: ---
+[INFO] [1776518725.038588141] [odom_subscriber]: Position    -> x: 1.8226, y: 0.1476, z: 0.0085
+[INFO] [1776518725.039662478] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0021, z: 0.5544, w: 0.8322
+[INFO] [1776518725.040580234] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: 0.0002, z: 0.0000
+[INFO] [1776518725.041451897] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0999
+[INFO] [1776518725.042338889] [odom_subscriber]: ---
+[INFO] [1776518725.073258385] [odom_subscriber]: Position    -> x: 1.8255, y: 0.1545, z: 0.0085
+[INFO] [1776518725.074531651] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0021, z: 0.5530, w: 0.8332
+[INFO] [1776518725.075585315] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: 0.0001, z: 0.0000
+[INFO] [1776518725.076628950] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518725.077680117] [odom_subscriber]: ---
+[INFO] [1776518725.106190103] [odom_subscriber]: Position    -> x: 1.8284, y: 0.1614, z: 0.0085
+[INFO] [1776518725.106817885] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0021, z: 0.5516, w: 0.8341
+[INFO] [1776518725.107253017] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: -0.0001, z: 0.0000
+[INFO] [1776518725.107605103] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518725.107920863] [odom_subscriber]: ---
+[INFO] [1776518725.139892553] [odom_subscriber]: Position    -> x: 1.8314, y: 0.1683, z: 0.0085
+[INFO] [1776518725.140272852] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0021, z: 0.5502, w: 0.8351
+[INFO] [1776518725.140573819] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: 0.0002, z: 0.0000
+[INFO] [1776518725.140846318] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518725.141110819] [odom_subscriber]: ---
+[INFO] [1776518725.175226005] [odom_subscriber]: Position    -> x: 1.8343, y: 0.1752, z: 0.0085
+[INFO] [1776518725.175901161] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0021, z: 0.5487, w: 0.8360
+[INFO] [1776518725.176422313] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: -0.0001, z: 0.0000
+[INFO] [1776518725.176874791] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518725.177299974] [odom_subscriber]: ---
+[INFO] [1776518725.208716057] [odom_subscriber]: Position    -> x: 1.8373, y: 0.1821, z: 0.0085
+[INFO] [1776518725.209490182] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0021, z: 0.5473, w: 0.8369
+[INFO] [1776518725.210158526] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: -0.0000, z: 0.0000
+[INFO] [1776518725.210701629] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518725.211194515] [odom_subscriber]: ---
+[INFO] [1776518725.243192408] [odom_subscriber]: Position    -> x: 1.8403, y: 0.1889, z: 0.0085
+[INFO] [1776518725.243934224] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0021, z: 0.5459, w: 0.8378
+[INFO] [1776518725.244491375] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: 0.0001, z: 0.0000
+[INFO] [1776518725.244977890] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518725.245507959] [odom_subscriber]: ---
+[INFO] [1776518725.277514775] [odom_subscriber]: Position    -> x: 1.8434, y: 0.1957, z: 0.0085
+[INFO] [1776518725.278213785] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0021, z: 0.5445, w: 0.8388
+[INFO] [1776518725.278766214] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: 0.0002, z: 0.0000
+[INFO] [1776518725.279229330] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518725.279659215] [odom_subscriber]: ---
+[INFO] [1776518725.311245275] [odom_subscriber]: Position    -> x: 1.8464, y: 0.2026, z: 0.0085
+[INFO] [1776518725.311766450] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.5430, w: 0.8397
+[INFO] [1776518725.312240583] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: 0.0001, z: 0.0000
+[INFO] [1776518725.312693367] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518725.313097879] [odom_subscriber]: ---
+[INFO] [1776518725.345305586] [odom_subscriber]: Position    -> x: 1.8495, y: 0.2094, z: 0.0085
+[INFO] [1776518725.345962690] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.5416, w: 0.8406
+[INFO] [1776518725.346515181] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: -0.0001, z: 0.0000
+[INFO] [1776518725.346946294] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0999
+[INFO] [1776518725.347341587] [odom_subscriber]: ---
+[INFO] [1776518725.380742254] [odom_subscriber]: Position    -> x: 1.8526, y: 0.2162, z: 0.0085
+[INFO] [1776518725.381329057] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.5402, w: 0.8415
+[INFO] [1776518725.381830702] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: 0.0002, z: 0.0000
+[INFO] [1776518725.382401259] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0999
+[INFO] [1776518725.382941456] [odom_subscriber]: ---
+[INFO] [1776518725.414999366] [odom_subscriber]: Position    -> x: 1.8558, y: 0.2230, z: 0.0085
+[INFO] [1776518725.415547388] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.5388, w: 0.8425
+[INFO] [1776518725.415968264] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: 0.0002, z: 0.0000
+[INFO] [1776518725.416386864] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518725.416796162] [odom_subscriber]: ---
+[INFO] [1776518725.449335316] [odom_subscriber]: Position    -> x: 1.8589, y: 0.2298, z: 0.0085
+[INFO] [1776518725.449907138] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.5373, w: 0.8434
+[INFO] [1776518725.450306602] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: -0.0000, z: 0.0000
+[INFO] [1776518725.450678136] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518725.451039018] [odom_subscriber]: ---
+[INFO] [1776518725.484717414] [odom_subscriber]: Position    -> x: 1.8621, y: 0.2366, z: 0.0085
+[INFO] [1776518725.486075150] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.5359, w: 0.8443
+[INFO] [1776518725.486835335] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: -0.0001, z: 0.0000
+[INFO] [1776518725.487401961] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0999
+[INFO] [1776518725.488148313] [odom_subscriber]: ---
+[INFO] [1776518725.518446041] [odom_subscriber]: Position    -> x: 1.8653, y: 0.2434, z: 0.0085
+[INFO] [1776518725.519545202] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.5345, w: 0.8452
+[INFO] [1776518725.520523495] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: -0.0000, z: 0.0000
+[INFO] [1776518725.521561005] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518725.522291444] [odom_subscriber]: ---
+[INFO] [1776518725.551989571] [odom_subscriber]: Position    -> x: 1.8685, y: 0.2501, z: 0.0085
+[INFO] [1776518725.552378633] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.5330, w: 0.8461
+[INFO] [1776518725.552686484] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: 0.0001, z: 0.0000
+[INFO] [1776518725.552982466] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518725.553276255] [odom_subscriber]: ---
+[INFO] [1776518725.587311098] [odom_subscriber]: Position    -> x: 1.8717, y: 0.2569, z: 0.0085
+[INFO] [1776518725.588690108] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.5316, w: 0.8470
+[INFO] [1776518725.589961196] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: 0.0002, z: 0.0000
+[INFO] [1776518725.591221564] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518725.592280944] [odom_subscriber]: ---
+[INFO] [1776518725.621951500] [odom_subscriber]: Position    -> x: 1.8750, y: 0.2636, z: 0.0085
+[INFO] [1776518725.622569863] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.5301, w: 0.8479
+[INFO] [1776518725.623192272] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: 0.0001, z: 0.0000
+[INFO] [1776518725.623672802] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518725.624143443] [odom_subscriber]: ---
+[INFO] [1776518725.656120212] [odom_subscriber]: Position    -> x: 1.8783, y: 0.2703, z: 0.0085
+[INFO] [1776518725.656810872] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.5287, w: 0.8488
+[INFO] [1776518725.657441745] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: -0.0001, z: 0.0000
+[INFO] [1776518725.658025498] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518725.658621132] [odom_subscriber]: ---
+[INFO] [1776518725.690153469] [odom_subscriber]: Position    -> x: 1.8816, y: 0.2770, z: 0.0085
+[INFO] [1776518725.690714168] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.5273, w: 0.8497
+[INFO] [1776518725.691211553] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: 0.0002, z: 0.0000
+[INFO] [1776518725.691684637] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518725.692162870] [odom_subscriber]: ---
+[INFO] [1776518725.725399168] [odom_subscriber]: Position    -> x: 1.8849, y: 0.2837, z: 0.0085
+[INFO] [1776518725.726594609] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.5258, w: 0.8506
+[INFO] [1776518725.727744369] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: -0.0001, z: 0.0000
+[INFO] [1776518725.728727220] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518725.729889332] [odom_subscriber]: ---
+[INFO] [1776518725.759153421] [odom_subscriber]: Position    -> x: 1.8883, y: 0.2904, z: 0.0085
+[INFO] [1776518725.760079759] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.5244, w: 0.8515
+[INFO] [1776518725.760841330] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: 0.0002, z: 0.0000
+[INFO] [1776518725.761429831] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518725.762074611] [odom_subscriber]: ---
+[INFO] [1776518725.794252722] [odom_subscriber]: Position    -> x: 1.8917, y: 0.2971, z: 0.0085
+[INFO] [1776518725.795846642] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.5229, w: 0.8524
+[INFO] [1776518725.797225605] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: 0.0002, z: 0.0000
+[INFO] [1776518725.798049896] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518725.798708470] [odom_subscriber]: ---
+[INFO] [1776518725.829250532] [odom_subscriber]: Position    -> x: 1.8951, y: 0.3038, z: 0.0085
+[INFO] [1776518725.829806904] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.5215, w: 0.8533
+[INFO] [1776518725.830192985] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: 0.0002, z: 0.0000
+[INFO] [1776518725.830554155] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0999
+[INFO] [1776518725.830878860] [odom_subscriber]: ---
+[INFO] [1776518725.863594551] [odom_subscriber]: Position    -> x: 1.8985, y: 0.3104, z: 0.0085
+[INFO] [1776518725.864403998] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.5200, w: 0.8542
+[INFO] [1776518725.865065277] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: -0.0001, z: 0.0000
+[INFO] [1776518725.865678743] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0999
+[INFO] [1776518725.866226274] [odom_subscriber]: ---
+[INFO] [1776518725.898311355] [odom_subscriber]: Position    -> x: 1.9020, y: 0.3171, z: 0.0085
+[INFO] [1776518725.899680250] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0021, z: 0.5186, w: 0.8550
+[INFO] [1776518725.900877875] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: -0.0001, z: 0.0000
+[INFO] [1776518725.901935425] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518725.902425614] [odom_subscriber]: ---
+[INFO] [1776518725.932249107] [odom_subscriber]: Position    -> x: 1.9054, y: 0.3237, z: 0.0085
+[INFO] [1776518725.932980428] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0022, z: 0.5171, w: 0.8559
+[INFO] [1776518725.933576618] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: 0.0001, z: 0.0000
+[INFO] [1776518725.934151761] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518725.934938792] [odom_subscriber]: ---
+[INFO] [1776518725.965847664] [odom_subscriber]: Position    -> x: 1.9089, y: 0.3303, z: 0.0085
+[INFO] [1776518725.967007704] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0022, z: 0.5157, w: 0.8568
+[INFO] [1776518725.968153148] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: 0.0002, z: 0.0000
+[INFO] [1776518725.969414331] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518725.970660220] [odom_subscriber]: ---
+[INFO] [1776518726.000202445] [odom_subscriber]: Position    -> x: 1.9124, y: 0.3369, z: 0.0085
+[INFO] [1776518726.001440100] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0022, z: 0.5142, w: 0.8577
+[INFO] [1776518726.002802128] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: 0.0002, z: 0.0000
+[INFO] [1776518726.003655443] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518726.004094986] [odom_subscriber]: ---
+[INFO] [1776518726.033543487] [odom_subscriber]: Position    -> x: 1.9160, y: 0.3435, z: 0.0085
+[INFO] [1776518726.034598593] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0022, z: 0.5127, w: 0.8585
+[INFO] [1776518726.035499144] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: 0.0002, z: 0.0000
+[INFO] [1776518726.036377471] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518726.037225497] [odom_subscriber]: ---
+[INFO] [1776518726.068599604] [odom_subscriber]: Position    -> x: 1.9195, y: 0.3501, z: 0.0085
+[INFO] [1776518726.069322467] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0022, z: 0.5113, w: 0.8594
+[INFO] [1776518726.069899297] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: -0.0001, z: 0.0000
+[INFO] [1776518726.070443084] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0999
+[INFO] [1776518726.070969230] [odom_subscriber]: ---
+[INFO] [1776518726.102116986] [odom_subscriber]: Position    -> x: 1.9231, y: 0.3567, z: 0.0085
+[INFO] [1776518726.102723007] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0022, z: 0.5098, w: 0.8603
+[INFO] [1776518726.103203371] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: 0.0002, z: 0.0000
+[INFO] [1776518726.103814363] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518726.104287786] [odom_subscriber]: ---
+[INFO] [1776518726.135984150] [odom_subscriber]: Position    -> x: 1.9267, y: 0.3633, z: 0.0085
+[INFO] [1776518726.136339745] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0022, z: 0.5084, w: 0.8611
+[INFO] [1776518726.136728899] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: -0.0001, z: 0.0000
+[INFO] [1776518726.137016775] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518726.137256412] [odom_subscriber]: ---
+[INFO] [1776518726.170100070] [odom_subscriber]: Position    -> x: 1.9304, y: 0.3698, z: 0.0085
+[INFO] [1776518726.170612209] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0022, z: 0.5069, w: 0.8620
+[INFO] [1776518726.171031043] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: 0.0002, z: 0.0000
+[INFO] [1776518726.171413153] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0999
+[INFO] [1776518726.171764562] [odom_subscriber]: ---
+[INFO] [1776518726.205129847] [odom_subscriber]: Position    -> x: 1.9340, y: 0.3763, z: 0.0085
+[INFO] [1776518726.206484561] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0022, z: 0.5054, w: 0.8629
+[INFO] [1776518726.207126054] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: 0.0002, z: 0.0000
+[INFO] [1776518726.207550545] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518726.207937916] [odom_subscriber]: ---
+[INFO] [1776518726.240901830] [odom_subscriber]: Position    -> x: 1.9377, y: 0.3829, z: 0.0085
+[INFO] [1776518726.242495504] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0022, z: 0.5040, w: 0.8637
+[INFO] [1776518726.244111490] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: 0.0001, z: 0.0000
+[INFO] [1776518726.245623210] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0999
+[INFO] [1776518726.247013025] [odom_subscriber]: ---
+[INFO] [1776518726.274103894] [odom_subscriber]: Position    -> x: 1.9414, y: 0.3894, z: 0.0085
+[INFO] [1776518726.274823291] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0022, z: 0.5025, w: 0.8646
+[INFO] [1776518726.275268292] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: -0.0001, z: 0.0000
+[INFO] [1776518726.275664556] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0999
+[INFO] [1776518726.276122300] [odom_subscriber]: ---
+[INFO] [1776518726.309166784] [odom_subscriber]: Position    -> x: 1.9451, y: 0.3959, z: 0.0085
+[INFO] [1776518726.309904030] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0022, z: 0.5010, w: 0.8654
+[INFO] [1776518726.310440818] [odom_subscriber]: Linear Vel  -> x: 0.2202, y: -0.0000, z: 0.0000
+[INFO] [1776518726.310893881] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1000
+[INFO] [1776518726.312027429] [odom_subscriber]: ---
+[INFO] [1776518726.342560028] [odom_subscriber]: Position    -> x: 1.9466, y: 0.3986, z: 0.0085
+[INFO] [1776518726.343204081] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0023, z: 0.4996, w: 0.8663
+[INFO] [1776518726.343986601] [odom_subscriber]: Linear Vel  -> x: 0.0918, y: -0.0002, z: 0.0000
+[INFO] [1776518726.344695715] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0991
+[INFO] [1776518726.345232181] [odom_subscriber]: ---
+[INFO] [1776518726.376697856] [odom_subscriber]: Position    -> x: 1.9476, y: 0.4003, z: 0.0085
+[INFO] [1776518726.377214141] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0025, z: 0.4981, w: 0.8671
+[INFO] [1776518726.377786336] [odom_subscriber]: Linear Vel  -> x: 0.0573, y: -0.0000, z: 0.0000
+[INFO] [1776518726.378111392] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1001
+[INFO] [1776518726.378427349] [odom_subscriber]: ---
+[INFO] [1776518726.413299319] [odom_subscriber]: Position    -> x: 1.9480, y: 0.4009, z: 0.0085
+[INFO] [1776518726.414502455] [odom_subscriber]: Orientation -> x: -0.0022, y: 0.0027, z: 0.4966, w: 0.8680
+[INFO] [1776518726.415509223] [odom_subscriber]: Linear Vel  -> x: 0.0233, y: -0.0001, z: 0.0000
+[INFO] [1776518726.416456916] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.1003
+[INFO] [1776518726.417348317] [odom_subscriber]: ---
+[INFO] [1776518726.448677311] [odom_subscriber]: Position    -> x: 1.9480, y: 0.4009, z: 0.0085
+[INFO] [1776518726.450278454] [odom_subscriber]: Orientation -> x: -0.0022, y: 0.0028, z: 0.4959, w: 0.8684
+[INFO] [1776518726.451831996] [odom_subscriber]: Linear Vel  -> x: 0.0003, y: -0.0001, z: 0.0000
+[INFO] [1776518726.453062617] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0184
+[INFO] [1776518726.453866661] [odom_subscriber]: ---
+[INFO] [1776518726.482418347] [odom_subscriber]: Position    -> x: 1.9480, y: 0.4009, z: 0.0085
+[INFO] [1776518726.483094793] [odom_subscriber]: Orientation -> x: -0.0023, y: 0.0029, z: 0.4967, w: 0.8679
+[INFO] [1776518726.483572418] [odom_subscriber]: Linear Vel  -> x: -0.0001, y: -0.0001, z: 0.0000
+[INFO] [1776518726.483974466] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0513
+[INFO] [1776518726.484378745] [odom_subscriber]: ---
+[INFO] [1776518726.516817233] [odom_subscriber]: Position    -> x: 1.9480, y: 0.4009, z: 0.0085
+[INFO] [1776518726.517976123] [odom_subscriber]: Orientation -> x: -0.0023, y: 0.0029, z: 0.4969, w: 0.8678
+[INFO] [1776518726.518970894] [odom_subscriber]: Linear Vel  -> x: -0.0001, y: -0.0001, z: 0.0000
+[INFO] [1776518726.519951334] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0234
+[INFO] [1776518726.520939531] [odom_subscriber]: ---
+[INFO] [1776518726.551025726] [odom_subscriber]: Position    -> x: 1.9480, y: 0.4009, z: 0.0085
+[INFO] [1776518726.551831498] [odom_subscriber]: Orientation -> x: -0.0023, y: 0.0029, z: 0.4964, w: 0.8681
+[INFO] [1776518726.552218470] [odom_subscriber]: Linear Vel  -> x: 0.0001, y: -0.0001, z: 0.0000
+[INFO] [1776518726.552566073] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0227
+[INFO] [1776518726.552891595] [odom_subscriber]: ---
+[INFO] [1776518726.584814240] [odom_subscriber]: Position    -> x: 1.9480, y: 0.4009, z: 0.0085
+[INFO] [1776518726.585387199] [odom_subscriber]: Orientation -> x: -0.0022, y: 0.0028, z: 0.4964, w: 0.8681
+[INFO] [1776518726.585862342] [odom_subscriber]: Linear Vel  -> x: -0.0001, y: -0.0001, z: 0.0000
+[INFO] [1776518726.586309126] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0189
+[INFO] [1776518726.586776554] [odom_subscriber]: ---
+[INFO] [1776518726.622224981] [odom_subscriber]: Position    -> x: 1.9480, y: 0.4009, z: 0.0085
+[INFO] [1776518726.623649847] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0027, z: 0.4967, w: 0.8679
+[INFO] [1776518726.624940146] [odom_subscriber]: Linear Vel  -> x: -0.0002, y: -0.0001, z: 0.0000
+[INFO] [1776518726.626198833] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0079
+[INFO] [1776518726.628266471] [odom_subscriber]: ---
+[INFO] [1776518726.655281723] [odom_subscriber]: Position    -> x: 1.9480, y: 0.4009, z: 0.0085
+[INFO] [1776518726.656067982] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0025, z: 0.4966, w: 0.8680
+[INFO] [1776518726.657271602] [odom_subscriber]: Linear Vel  -> x: 0.0004, y: -0.0002, z: 0.0000
+[INFO] [1776518726.657913913] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0122
+[INFO] [1776518726.658583597] [odom_subscriber]: ---
+[INFO] [1776518726.691712195] [odom_subscriber]: Position    -> x: 1.9480, y: 0.4009, z: 0.0085
+[INFO] [1776518726.693385247] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0023, z: 0.4965, w: 0.8680
+[INFO] [1776518726.694905853] [odom_subscriber]: Linear Vel  -> x: 0.0003, y: -0.0002, z: 0.0000
+[INFO] [1776518726.696367733] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0008
+[INFO] [1776518726.697420371] [odom_subscriber]: ---
+[INFO] [1776518726.724647707] [odom_subscriber]: Position    -> x: 1.9480, y: 0.4009, z: 0.0086
+[INFO] [1776518726.725744239] [odom_subscriber]: Orientation -> x: -0.0017, y: 0.0021, z: 0.4966, w: 0.8680
+[INFO] [1776518726.726688120] [odom_subscriber]: Linear Vel  -> x: 0.0003, y: -0.0002, z: 0.0000
+[INFO] [1776518726.727179081] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0076
+[INFO] [1776518726.727539849] [odom_subscriber]: ---
+[INFO] [1776518726.758719427] [odom_subscriber]: Position    -> x: 1.9480, y: 0.4009, z: 0.0086
+[INFO] [1776518726.759822163] [odom_subscriber]: Orientation -> x: -0.0016, y: 0.0020, z: 0.4966, w: 0.8680
+[INFO] [1776518726.760900383] [odom_subscriber]: Linear Vel  -> x: 0.0003, y: -0.0002, z: 0.0000
+[INFO] [1776518726.762100743] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0012
+[INFO] [1776518726.763212310] [odom_subscriber]: ---
+[INFO] [1776518726.793043632] [odom_subscriber]: Position    -> x: 1.9480, y: 0.4009, z: 0.0086
+[INFO] [1776518726.794287682] [odom_subscriber]: Orientation -> x: -0.0015, y: 0.0019, z: 0.4966, w: 0.8680
+[INFO] [1776518726.795264267] [odom_subscriber]: Linear Vel  -> x: 0.0003, y: -0.0002, z: 0.0000
+[INFO] [1776518726.795963305] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0037
+[INFO] [1776518726.796607547] [odom_subscriber]: ---
+[INFO] [1776518726.829671964] [odom_subscriber]: Position    -> x: 1.9480, y: 0.4009, z: 0.0086
+[INFO] [1776518726.830896483] [odom_subscriber]: Orientation -> x: -0.0014, y: 0.0018, z: 0.4966, w: 0.8680
+[INFO] [1776518726.832093893] [odom_subscriber]: Linear Vel  -> x: 0.0004, y: -0.0002, z: 0.0000
+[INFO] [1776518726.833127740] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0018
+[INFO] [1776518726.834186098] [odom_subscriber]: ---
+[INFO] [1776518726.864704966] [odom_subscriber]: Position    -> x: 1.9480, y: 0.4009, z: 0.0086
+[INFO] [1776518726.866092498] [odom_subscriber]: Orientation -> x: -0.0014, y: 0.0017, z: 0.4966, w: 0.8680
+[INFO] [1776518726.866825995] [odom_subscriber]: Linear Vel  -> x: 0.0004, y: -0.0002, z: 0.0000
+[INFO] [1776518726.867508386] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0018
+[INFO] [1776518726.868172221] [odom_subscriber]: ---
+[INFO] [1776518726.897781104] [odom_subscriber]: Position    -> x: 1.9480, y: 0.4009, z: 0.0086
+[INFO] [1776518726.898555533] [odom_subscriber]: Orientation -> x: -0.0013, y: 0.0017, z: 0.4966, w: 0.8680
+[INFO] [1776518726.899075244] [odom_subscriber]: Linear Vel  -> x: 0.0004, y: -0.0002, z: 0.0000
+[INFO] [1776518726.899444502] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0013
+[INFO] [1776518726.899820899] [odom_subscriber]: ---
+[INFO] [1776518726.932333888] [odom_subscriber]: Position    -> x: 1.9480, y: 0.4009, z: 0.0086
+[INFO] [1776518726.932911618] [odom_subscriber]: Orientation -> x: -0.0013, y: 0.0017, z: 0.4966, w: 0.8680
+[INFO] [1776518726.933330752] [odom_subscriber]: Linear Vel  -> x: 0.0004, y: -0.0002, z: 0.0000
+[INFO] [1776518726.933868534] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0005
+[INFO] [1776518726.934274409] [odom_subscriber]: ---
+[INFO] [1776518726.965908405] [odom_subscriber]: Position    -> x: 1.9480, y: 0.4009, z: 0.0086
+[INFO] [1776518726.966615236] [odom_subscriber]: Orientation -> x: -0.0013, y: 0.0017, z: 0.4966, w: 0.8680
+[INFO] [1776518726.967127727] [odom_subscriber]: Linear Vel  -> x: 0.0005, y: -0.0002, z: 0.0000
+[INFO] [1776518726.967600952] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0010
+[INFO] [1776518726.968027966] [odom_subscriber]: ---
+[INFO] [1776518727.000769291] [odom_subscriber]: Position    -> x: 1.9480, y: 0.4009, z: 0.0086
+[INFO] [1776518727.001682846] [odom_subscriber]: Orientation -> x: -0.0013, y: 0.0018, z: 0.4966, w: 0.8680
+[INFO] [1776518727.002399061] [odom_subscriber]: Linear Vel  -> x: 0.0005, y: -0.0002, z: 0.0000
+[INFO] [1776518727.003016716] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0002
+[INFO] [1776518727.003579586] [odom_subscriber]: ---
+[INFO] [1776518727.035689424] [odom_subscriber]: Position    -> x: 1.9480, y: 0.4009, z: 0.0086
+[INFO] [1776518727.036339082] [odom_subscriber]: Orientation -> x: -0.0013, y: 0.0019, z: 0.4966, w: 0.8680
+[INFO] [1776518727.037861175] [odom_subscriber]: Linear Vel  -> x: 0.0005, y: -0.0002, z: 0.0000
+[INFO] [1776518727.038983906] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0004
+[INFO] [1776518727.040085702] [odom_subscriber]: ---
+[INFO] [1776518727.070311255] [odom_subscriber]: Position    -> x: 1.9480, y: 0.4009, z: 0.0086
+[INFO] [1776518727.071503598] [odom_subscriber]: Orientation -> x: -0.0013, y: 0.0020, z: 0.4966, w: 0.8680
+[INFO] [1776518727.072891304] [odom_subscriber]: Linear Vel  -> x: 0.0005, y: -0.0002, z: 0.0000
+[INFO] [1776518727.074284774] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0002
+[INFO] [1776518727.075443090] [odom_subscriber]: ---
+[INFO] [1776518727.103429519] [odom_subscriber]: Position    -> x: 1.9480, y: 0.4009, z: 0.0086
+[INFO] [1776518727.104536711] [odom_subscriber]: Orientation -> x: -0.0013, y: 0.0022, z: 0.4970, w: 0.8678
+[INFO] [1776518727.105790687] [odom_subscriber]: Linear Vel  -> x: 0.0004, y: -0.0002, z: 0.0000
+[INFO] [1776518727.107005509] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0594
+[INFO] [1776518727.108276159] [odom_subscriber]: ---
+[INFO] [1776518727.138636080] [odom_subscriber]: Position    -> x: 1.9480, y: 0.4009, z: 0.0085
+[INFO] [1776518727.140152857] [odom_subscriber]: Orientation -> x: -0.0014, y: 0.0024, z: 0.4981, w: 0.8671
+[INFO] [1776518727.141853401] [odom_subscriber]: Linear Vel  -> x: 0.0005, y: -0.0003, z: 0.0000
+[INFO] [1776518727.142867209] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0755
+[INFO] [1776518727.143381619] [odom_subscriber]: ---
+[INFO] [1776518727.171990470] [odom_subscriber]: Position    -> x: 1.9480, y: 0.4009, z: 0.0085
+[INFO] [1776518727.173008852] [odom_subscriber]: Orientation -> x: -0.0015, y: 0.0026, z: 0.4989, w: 0.8666
+[INFO] [1776518727.173969559] [odom_subscriber]: Linear Vel  -> x: -0.0000, y: 0.0000, z: 0.0000
+[INFO] [1776518727.174837577] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0380
+[INFO] [1776518727.175662033] [odom_subscriber]: ---
+[INFO] [1776518727.205680722] [odom_subscriber]: Position    -> x: 1.9480, y: 0.4009, z: 0.0085
+[INFO] [1776518727.206527519] [odom_subscriber]: Orientation -> x: -0.0015, y: 0.0027, z: 0.4998, w: 0.8661
+[INFO] [1776518727.207075104] [odom_subscriber]: Linear Vel  -> x: -0.0001, y: -0.0000, z: 0.0000
+[INFO] [1776518727.207531019] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0975
+[INFO] [1776518727.207916189] [odom_subscriber]: ---
+[INFO] [1776518727.240598494] [odom_subscriber]: Position    -> x: 1.9480, y: 0.4009, z: 0.0085
+[INFO] [1776518727.241761097] [odom_subscriber]: Orientation -> x: -0.0016, y: 0.0029, z: 0.5017, w: 0.8651
+[INFO] [1776518727.242234931] [odom_subscriber]: Linear Vel  -> x: -0.0002, y: -0.0000, z: 0.0000
+[INFO] [1776518727.242591649] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.1351
+[INFO] [1776518727.242916297] [odom_subscriber]: ---
+[INFO] [1776518727.273897105] [odom_subscriber]: Position    -> x: 1.9480, y: 0.4009, z: 0.0085
+[INFO] [1776518727.274637803] [odom_subscriber]: Orientation -> x: -0.0016, y: 0.0030, z: 0.5034, w: 0.8641
+[INFO] [1776518727.275198335] [odom_subscriber]: Linear Vel  -> x: -0.0001, y: -0.0000, z: 0.0000
+[INFO] [1776518727.275713967] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0922
+[INFO] [1776518727.276157969] [odom_subscriber]: ---
+[INFO] [1776518727.308025994] [odom_subscriber]: Position    -> x: 1.9480, y: 0.4009, z: 0.0085
+[INFO] [1776518727.308434631] [odom_subscriber]: Orientation -> x: -0.0016, y: 0.0030, z: 0.5046, w: 0.8634
+[INFO] [1776518727.308733834] [odom_subscriber]: Linear Vel  -> x: -0.0002, y: -0.0000, z: 0.0000
+[INFO] [1776518727.309010955] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0822
+[INFO] [1776518727.309270682] [odom_subscriber]: ---
+[INFO] [1776518727.342572517] [odom_subscriber]: Position    -> x: 1.9480, y: 0.4009, z: 0.0085
+[INFO] [1776518727.343202664] [odom_subscriber]: Orientation -> x: -0.0015, y: 0.0030, z: 0.5060, w: 0.8625
+[INFO] [1776518727.343713946] [odom_subscriber]: Linear Vel  -> x: -0.0002, y: -0.0000, z: 0.0000
+[INFO] [1776518727.344244797] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.1088
+[INFO] [1776518727.344756501] [odom_subscriber]: ---
+[INFO] [1776518727.376071376] [odom_subscriber]: Position    -> x: 1.9480, y: 0.4009, z: 0.0085
+[INFO] [1776518727.376815849] [odom_subscriber]: Orientation -> x: -0.0015, y: 0.0029, z: 0.5076, w: 0.8616
+[INFO] [1776518727.378441887] [odom_subscriber]: Linear Vel  -> x: -0.0003, y: -0.0000, z: 0.0000
+[INFO] [1776518727.379241920] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.1077
+[INFO] [1776518727.379683357] [odom_subscriber]: ---
+[INFO] [1776518727.411142474] [odom_subscriber]: Position    -> x: 1.9480, y: 0.4009, z: 0.0085
+[INFO] [1776518727.411476792] [odom_subscriber]: Orientation -> x: -0.0014, y: 0.0028, z: 0.5091, w: 0.8607
+[INFO] [1776518727.411735757] [odom_subscriber]: Linear Vel  -> x: -0.0003, y: -0.0000, z: 0.0000
+[INFO] [1776518727.411989485] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0932
+[INFO] [1776518727.412234019] [odom_subscriber]: ---
+[INFO] [1776518727.446025549] [odom_subscriber]: Position    -> x: 1.9480, y: 0.4009, z: 0.0085
+[INFO] [1776518727.446794076] [odom_subscriber]: Orientation -> x: -0.0013, y: 0.0027, z: 0.5104, w: 0.8599
+[INFO] [1776518727.447367730] [odom_subscriber]: Linear Vel  -> x: -0.0003, y: 0.0000, z: 0.0000
+[INFO] [1776518727.448232528] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0977
+[INFO] [1776518727.449154354] [odom_subscriber]: ---
+[INFO] [1776518727.479851173] [odom_subscriber]: Position    -> x: 1.9480, y: 0.4009, z: 0.0085
+[INFO] [1776518727.480445186] [odom_subscriber]: Orientation -> x: -0.0012, y: 0.0025, z: 0.5119, w: 0.8590
+[INFO] [1776518727.480882648] [odom_subscriber]: Linear Vel  -> x: 0.0003, y: -0.0005, z: 0.0000
+[INFO] [1776518727.481254178] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.1048
+[INFO] [1776518727.481800505] [odom_subscriber]: ---
+[INFO] [1776518727.514343820] [odom_subscriber]: Position    -> x: 1.9480, y: 0.4009, z: 0.0086
+[INFO] [1776518727.514942813] [odom_subscriber]: Orientation -> x: -0.0011, y: 0.0024, z: 0.5134, w: 0.8581
+[INFO] [1776518727.515574855] [odom_subscriber]: Linear Vel  -> x: 0.0003, y: -0.0004, z: 0.0000
+[INFO] [1776518727.515942869] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.1003
+[INFO] [1776518727.516435602] [odom_subscriber]: ---
+[INFO] [1776518727.548289924] [odom_subscriber]: Position    -> x: 1.9480, y: 0.4008, z: 0.0086
+[INFO] [1776518727.548881935] [odom_subscriber]: Orientation -> x: -0.0011, y: 0.0024, z: 0.5148, w: 0.8573
+[INFO] [1776518727.549329445] [odom_subscriber]: Linear Vel  -> x: 0.0003, y: -0.0003, z: 0.0000
+[INFO] [1776518727.549758286] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0969
+[INFO] [1776518727.550103795] [odom_subscriber]: ---
+[INFO] [1776518727.582408876] [odom_subscriber]: Position    -> x: 1.9480, y: 0.4008, z: 0.0086
+[INFO] [1776518727.582810422] [odom_subscriber]: Orientation -> x: -0.0010, y: 0.0023, z: 0.5167, w: 0.8562
+[INFO] [1776518727.583149244] [odom_subscriber]: Linear Vel  -> x: 0.0001, y: -0.0001, z: 0.0000
+[INFO] [1776518727.583495453] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.1588
+[INFO] [1776518727.583794446] [odom_subscriber]: ---
+[INFO] [1776518727.617640110] [odom_subscriber]: Position    -> x: 1.9480, y: 0.4008, z: 0.0086
+[INFO] [1776518727.618797184] [odom_subscriber]: Orientation -> x: -0.0010, y: 0.0023, z: 0.5196, w: 0.8544
+[INFO] [1776518727.619918674] [odom_subscriber]: Linear Vel  -> x: -0.0002, y: 0.0001, z: 0.0000
+[INFO] [1776518727.621032653] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.2352
+[INFO] [1776518727.622174845] [odom_subscriber]: ---
+[INFO] [1776518727.652340995] [odom_subscriber]: Position    -> x: 1.9480, y: 0.4008, z: 0.0086
+[INFO] [1776518727.653523251] [odom_subscriber]: Orientation -> x: -0.0010, y: 0.0023, z: 0.5234, w: 0.8521
+[INFO] [1776518727.654598440] [odom_subscriber]: Linear Vel  -> x: -0.0003, y: 0.0002, z: 0.0000
+[INFO] [1776518727.655545240] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.2720
+[INFO] [1776518727.656403869] [odom_subscriber]: ---
+[INFO] [1776518727.686192178] [odom_subscriber]: Position    -> x: 1.9480, y: 0.4008, z: 0.0086
+[INFO] [1776518727.687182992] [odom_subscriber]: Orientation -> x: -0.0010, y: 0.0023, z: 0.5276, w: 0.8495
+[INFO] [1776518727.687763479] [odom_subscriber]: Linear Vel  -> x: -0.0004, y: 0.0003, z: 0.0000
+[INFO] [1776518727.688212971] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.3107
+[INFO] [1776518727.688598796] [odom_subscriber]: ---
+[INFO] [1776518727.719950118] [odom_subscriber]: Position    -> x: 1.9480, y: 0.4008, z: 0.0086
+[INFO] [1776518727.720408101] [odom_subscriber]: Orientation -> x: -0.0011, y: 0.0024, z: 0.5325, w: 0.8464
+[INFO] [1776518727.720765811] [odom_subscriber]: Linear Vel  -> x: -0.0005, y: 0.0004, z: 0.0000
+[INFO] [1776518727.721092357] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.3707
+[INFO] [1776518727.721505098] [odom_subscriber]: ---
+[INFO] [1776518727.754332480] [odom_subscriber]: Position    -> x: 1.9480, y: 0.4008, z: 0.0086
+[INFO] [1776518727.754974593] [odom_subscriber]: Orientation -> x: -0.0011, y: 0.0024, z: 0.5383, w: 0.8427
+[INFO] [1776518727.755445604] [odom_subscriber]: Linear Vel  -> x: -0.0006, y: 0.0004, z: 0.0000
+[INFO] [1776518727.755873124] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.4244
+[INFO] [1776518727.756283324] [odom_subscriber]: ---
+[INFO] [1776518727.789243230] [odom_subscriber]: Position    -> x: 1.9479, y: 0.4007, z: 0.0086
+[INFO] [1776518727.790612699] [odom_subscriber]: Orientation -> x: -0.0012, y: 0.0025, z: 0.5451, w: 0.8384
+[INFO] [1776518727.792000240] [odom_subscriber]: Linear Vel  -> x: -0.0009, y: 0.0006, z: 0.0000
+[INFO] [1776518727.793249367] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.5267
+[INFO] [1776518727.794401374] [odom_subscriber]: ---
+[INFO] [1776518727.822861474] [odom_subscriber]: Position    -> x: 1.9479, y: 0.4007, z: 0.0085
+[INFO] [1776518727.823617621] [odom_subscriber]: Orientation -> x: -0.0013, y: 0.0026, z: 0.5532, w: 0.8330
+[INFO] [1776518727.824213825] [odom_subscriber]: Linear Vel  -> x: -0.0010, y: -0.0001, z: 0.0000
+[INFO] [1776518727.824737298] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.5940
+[INFO] [1776518727.825221585] [odom_subscriber]: ---
+[INFO] [1776518727.857910567] [odom_subscriber]: Position    -> x: 1.9479, y: 0.4007, z: 0.0085
+[INFO] [1776518727.858699303] [odom_subscriber]: Orientation -> x: -0.0014, y: 0.0026, z: 0.5617, w: 0.8273
+[INFO] [1776518727.859444012] [odom_subscriber]: Linear Vel  -> x: -0.0011, y: -0.0000, z: 0.0000
+[INFO] [1776518727.860287414] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.6100
+[INFO] [1776518727.861026563] [odom_subscriber]: ---
+[INFO] [1776518727.892277742] [odom_subscriber]: Position    -> x: 1.9479, y: 0.4006, z: 0.0085
+[INFO] [1776518727.892805110] [odom_subscriber]: Orientation -> x: -0.0015, y: 0.0027, z: 0.5706, w: 0.8212
+[INFO] [1776518727.893246892] [odom_subscriber]: Linear Vel  -> x: -0.0012, y: -0.0001, z: 0.0000
+[INFO] [1776518727.893656815] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.6595
+[INFO] [1776518727.894025930] [odom_subscriber]: ---
+[INFO] [1776518727.926448788] [odom_subscriber]: Position    -> x: 1.9479, y: 0.4006, z: 0.0085
+[INFO] [1776518727.926953512] [odom_subscriber]: Orientation -> x: -0.0016, y: 0.0027, z: 0.5803, w: 0.8144
+[INFO] [1776518727.927446281] [odom_subscriber]: Linear Vel  -> x: -0.0012, y: 0.0008, z: 0.0000
+[INFO] [1776518727.928315755] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.7278
+[INFO] [1776518727.928774886] [odom_subscriber]: ---
+[INFO] [1776518727.960706494] [odom_subscriber]: Position    -> x: 1.9479, y: 0.4005, z: 0.0085
+[INFO] [1776518727.961981964] [odom_subscriber]: Orientation -> x: -0.0017, y: 0.0027, z: 0.5907, w: 0.8069
+[INFO] [1776518727.962427872] [odom_subscriber]: Linear Vel  -> x: -0.0013, y: 0.0007, z: 0.0000
+[INFO] [1776518727.962827239] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.7732
+[INFO] [1776518727.963192431] [odom_subscriber]: ---
+[INFO] [1776518727.994652266] [odom_subscriber]: Position    -> x: 1.9479, y: 0.4005, z: 0.0085
+[INFO] [1776518727.995189013] [odom_subscriber]: Orientation -> x: -0.0017, y: 0.0026, z: 0.6016, w: 0.7988
+[INFO] [1776518727.995667691] [odom_subscriber]: Linear Vel  -> x: -0.0013, y: 0.0006, z: 0.0000
+[INFO] [1776518727.996119730] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.8138
+[INFO] [1776518727.996596275] [odom_subscriber]: ---
+[INFO] [1776518728.029244148] [odom_subscriber]: Position    -> x: 1.9479, y: 0.4004, z: 0.0085
+[INFO] [1776518728.029984128] [odom_subscriber]: Orientation -> x: -0.0018, y: 0.0025, z: 0.6133, w: 0.7898
+[INFO] [1776518728.030533782] [odom_subscriber]: Linear Vel  -> x: -0.0017, y: -0.0001, z: 0.0000
+[INFO] [1776518728.030862180] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.9272
+[INFO] [1776518728.031220124] [odom_subscriber]: ---
+[INFO] [1776518728.063683657] [odom_subscriber]: Position    -> x: 1.9479, y: 0.4004, z: 0.0085
+[INFO] [1776518728.064518661] [odom_subscriber]: Orientation -> x: -0.0018, y: 0.0024, z: 0.6263, w: 0.7796
+[INFO] [1776518728.065178485] [odom_subscriber]: Linear Vel  -> x: -0.0019, y: -0.0001, z: 0.0000
+[INFO] [1776518728.065801107] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.9984
+[INFO] [1776518728.066385251] [odom_subscriber]: ---
+[INFO] [1776518728.099044682] [odom_subscriber]: Position    -> x: 1.9478, y: 0.4003, z: 0.0085
+[INFO] [1776518728.099735001] [odom_subscriber]: Orientation -> x: -0.0018, y: 0.0023, z: 0.6396, w: 0.7687
+[INFO] [1776518728.100393196] [odom_subscriber]: Linear Vel  -> x: -0.0020, y: -0.0002, z: 0.0000
+[INFO] [1776518728.100845984] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 1.0070
+[INFO] [1776518728.101468843] [odom_subscriber]: ---
+[INFO] [1776518728.134167683] [odom_subscriber]: Position    -> x: 1.9478, y: 0.4002, z: 0.0085
+[INFO] [1776518728.135586521] [odom_subscriber]: Orientation -> x: -0.0018, y: 0.0022, z: 0.6529, w: 0.7574
+[INFO] [1776518728.136972186] [odom_subscriber]: Linear Vel  -> x: -0.0017, y: 0.0003, z: 0.0000
+[INFO] [1776518728.138379862] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 1.0556
+[INFO] [1776518728.139612131] [odom_subscriber]: ---
+[INFO] [1776518728.167918947] [odom_subscriber]: Position    -> x: 1.9478, y: 0.4002, z: 0.0085
+[INFO] [1776518728.168664177] [odom_subscriber]: Orientation -> x: -0.0018, y: 0.0021, z: 0.6669, w: 0.7451
+[INFO] [1776518728.169140288] [odom_subscriber]: Linear Vel  -> x: -0.0019, y: 0.0003, z: 0.0000
+[INFO] [1776518728.169597167] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 1.1290
+[INFO] [1776518728.170043183] [odom_subscriber]: ---
+[INFO] [1776518728.202334047] [odom_subscriber]: Position    -> x: 1.9478, y: 0.4001, z: 0.0086
+[INFO] [1776518728.203056406] [odom_subscriber]: Orientation -> x: -0.0019, y: 0.0019, z: 0.6814, w: 0.7319
+[INFO] [1776518728.203675579] [odom_subscriber]: Linear Vel  -> x: -0.0019, y: 0.0003, z: 0.0000
+[INFO] [1776518728.204254029] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 1.1736
+[INFO] [1776518728.204783629] [odom_subscriber]: ---
+[INFO] [1776518728.236664760] [odom_subscriber]: Position    -> x: 1.9478, y: 0.4000, z: 0.0086
+[INFO] [1776518728.237338363] [odom_subscriber]: Orientation -> x: -0.0020, y: 0.0019, z: 0.6965, w: 0.7176
+[INFO] [1776518728.237910378] [odom_subscriber]: Linear Vel  -> x: -0.0021, y: 0.0002, z: 0.0000
+[INFO] [1776518728.238438528] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 1.2710
+[INFO] [1776518728.238942174] [odom_subscriber]: ---
+[INFO] [1776518728.270399086] [odom_subscriber]: Position    -> x: 1.9478, y: 0.3999, z: 0.0085
+[INFO] [1776518728.270909687] [odom_subscriber]: Orientation -> x: -0.0021, y: 0.0018, z: 0.7124, w: 0.7018
+[INFO] [1776518728.271339826] [odom_subscriber]: Linear Vel  -> x: -0.0021, y: 0.0002, z: 0.0000
+[INFO] [1776518728.271745216] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 1.3437
+[INFO] [1776518728.272148404] [odom_subscriber]: ---
+[INFO] [1776518728.305897729] [odom_subscriber]: Position    -> x: 1.9478, y: 0.3998, z: 0.0085
+[INFO] [1776518728.307196929] [odom_subscriber]: Orientation -> x: -0.0022, y: 0.0017, z: 0.7284, w: 0.6852
+[INFO] [1776518728.308167345] [odom_subscriber]: Linear Vel  -> x: -0.0026, y: -0.0003, z: 0.0000
+[INFO] [1776518728.309140683] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 1.3615
+[INFO] [1776518728.309901184] [odom_subscriber]: ---
+[INFO] [1776518728.339420226] [odom_subscriber]: Position    -> x: 1.9478, y: 0.3998, z: 0.0085
+[INFO] [1776518728.339946241] [odom_subscriber]: Orientation -> x: -0.0023, y: 0.0017, z: 0.7443, w: 0.6679
+[INFO] [1776518728.340258635] [odom_subscriber]: Linear Vel  -> x: -0.0020, y: 0.0001, z: 0.0000
+[INFO] [1776518728.340560229] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 1.4068
+[INFO] [1776518728.340855175] [odom_subscriber]: ---
+[INFO] [1776518728.374481610] [odom_subscriber]: Position    -> x: 1.9479, y: 0.3997, z: 0.0085
+[INFO] [1776518728.375382963] [odom_subscriber]: Orientation -> x: -0.0025, y: 0.0016, z: 0.7604, w: 0.6494
+[INFO] [1776518728.376069092] [odom_subscriber]: Linear Vel  -> x: -0.0020, y: -0.0000, z: 0.0000
+[INFO] [1776518728.376625450] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 1.4757
+[INFO] [1776518728.377143926] [odom_subscriber]: ---
+[INFO] [1776518728.407784752] [odom_subscriber]: Position    -> x: 1.9479, y: 0.3996, z: 0.0085
+[INFO] [1776518728.408527808] [odom_subscriber]: Orientation -> x: -0.0026, y: 0.0016, z: 0.7768, w: 0.6297
+[INFO] [1776518728.409187030] [odom_subscriber]: Linear Vel  -> x: -0.0028, y: -0.0003, z: 0.0000
+[INFO] [1776518728.409768185] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 1.5236
+[INFO] [1776518728.410309003] [odom_subscriber]: ---
+[INFO] [1776518728.443639781] [odom_subscriber]: Position    -> x: 1.9479, y: 0.3995, z: 0.0085
+[INFO] [1776518728.444514365] [odom_subscriber]: Orientation -> x: -0.0027, y: 0.0015, z: 0.7931, w: 0.6091
+[INFO] [1776518728.445151337] [odom_subscriber]: Linear Vel  -> x: -0.0029, y: -0.0004, z: 0.0000
+[INFO] [1776518728.445735501] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 1.5629
+[INFO] [1776518728.446279349] [odom_subscriber]: ---
+[INFO] [1776518728.477651472] [odom_subscriber]: Position    -> x: 1.9480, y: 0.3994, z: 0.0085
+[INFO] [1776518728.479389181] [odom_subscriber]: Orientation -> x: -0.0028, y: 0.0014, z: 0.8093, w: 0.5875
+[INFO] [1776518728.480633181] [odom_subscriber]: Linear Vel  -> x: -0.0027, y: 0.0001, z: 0.0000
+[INFO] [1776518728.481484317] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 1.6166
+[INFO] [1776518728.482345300] [odom_subscriber]: ---
+[INFO] [1776518728.514060081] [odom_subscriber]: Position    -> x: 1.9480, y: 0.3993, z: 0.0085
+[INFO] [1776518728.515772658] [odom_subscriber]: Orientation -> x: -0.0029, y: 0.0013, z: 0.8251, w: 0.5649
+[INFO] [1776518728.517374454] [odom_subscriber]: Linear Vel  -> x: -0.0031, y: -0.0004, z: 0.0000
+[INFO] [1776518728.518649945] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 1.6123
+[INFO] [1776518728.519120972] [odom_subscriber]: ---
+[INFO] [1776518728.548194556] [odom_subscriber]: Position    -> x: 1.9480, y: 0.3992, z: 0.0085
+[INFO] [1776518728.549057407] [odom_subscriber]: Orientation -> x: -0.0029, y: 0.0012, z: 0.8404, w: 0.5420
+[INFO] [1776518728.549928735] [odom_subscriber]: Linear Vel  -> x: -0.0033, y: 0.0003, z: 0.0000
+[INFO] [1776518728.550595130] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 1.6421
+[INFO] [1776518728.551124756] [odom_subscriber]: ---
+[INFO] [1776518728.582930072] [odom_subscriber]: Position    -> x: 1.9481, y: 0.3991, z: 0.0085
+[INFO] [1776518728.584526998] [odom_subscriber]: Orientation -> x: -0.0029, y: 0.0010, z: 0.8554, w: 0.5180
+[INFO] [1776518728.585957356] [odom_subscriber]: Linear Vel  -> x: -0.0031, y: -0.0005, z: 0.0000
+[INFO] [1776518728.586654143] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 1.6682
+[INFO] [1776518728.587185559] [odom_subscriber]: ---
+[INFO] [1776518728.616860327] [odom_subscriber]: Position    -> x: 1.9482, y: 0.3990, z: 0.0085
+[INFO] [1776518728.618405460] [odom_subscriber]: Orientation -> x: -0.0029, y: 0.0009, z: 0.8696, w: 0.4937
+[INFO] [1776518728.619836316] [odom_subscriber]: Linear Vel  -> x: -0.0036, y: 0.0005, z: 0.0000
+[INFO] [1776518728.620521392] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 1.6449
+[INFO] [1776518728.621012725] [odom_subscriber]: ---
+[INFO] [1776518728.650166531] [odom_subscriber]: Position    -> x: 1.9482, y: 0.3989, z: 0.0085
+[INFO] [1776518728.651255035] [odom_subscriber]: Orientation -> x: -0.0029, y: 0.0008, z: 0.8832, w: 0.4689
+[INFO] [1776518728.652456560] [odom_subscriber]: Linear Vel  -> x: -0.0033, y: 0.0003, z: 0.0000
+[INFO] [1776518728.652946409] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 1.6946
+[INFO] [1776518728.653282088] [odom_subscriber]: ---
+[INFO] [1776518728.683146306] [odom_subscriber]: Position    -> x: 1.9483, y: 0.3988, z: 0.0085
+[INFO] [1776518728.683638134] [odom_subscriber]: Orientation -> x: -0.0029, y: 0.0006, z: 0.8966, w: 0.4429
+[INFO] [1776518728.684032593] [odom_subscriber]: Linear Vel  -> x: -0.0033, y: -0.0005, z: 0.0000
+[INFO] [1776518728.684513311] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 1.7270
+[INFO] [1776518728.684883071] [odom_subscriber]: ---
+[INFO] [1776518728.717891071] [odom_subscriber]: Position    -> x: 1.9484, y: 0.3987, z: 0.0085
+[INFO] [1776518728.718595693] [odom_subscriber]: Orientation -> x: -0.0028, y: 0.0005, z: 0.9091, w: 0.4167
+[INFO] [1776518728.719111457] [odom_subscriber]: Linear Vel  -> x: -0.0032, y: 0.0004, z: 0.0000
+[INFO] [1776518728.719652442] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 1.6902
+[INFO] [1776518728.720180249] [odom_subscriber]: ---
+[INFO] [1776518728.752480564] [odom_subscriber]: Position    -> x: 1.9484, y: 0.3987, z: 0.0085
+[INFO] [1776518728.753480298] [odom_subscriber]: Orientation -> x: -0.0028, y: 0.0003, z: 0.9208, w: 0.3901
+[INFO] [1776518728.754402780] [odom_subscriber]: Linear Vel  -> x: -0.0032, y: 0.0002, z: 0.0000
+[INFO] [1776518728.755343537] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 1.7416
+[INFO] [1776518728.756300605] [odom_subscriber]: ---
+[INFO] [1776518728.787217191] [odom_subscriber]: Position    -> x: 1.9485, y: 0.3986, z: 0.0086
+[INFO] [1776518728.788410566] [odom_subscriber]: Orientation -> x: -0.0028, y: 0.0002, z: 0.9321, w: 0.3622
+[INFO] [1776518728.789549021] [odom_subscriber]: Linear Vel  -> x: -0.0035, y: 0.0000, z: 0.0000
+[INFO] [1776518728.790747381] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 1.7804
+[INFO] [1776518728.791978562] [odom_subscriber]: ---
+[INFO] [1776518728.820752940] [odom_subscriber]: Position    -> x: 1.9486, y: 0.3985, z: 0.0086
+[INFO] [1776518728.821527515] [odom_subscriber]: Orientation -> x: -0.0029, y: 0.0001, z: 0.9425, w: 0.3341
+[INFO] [1776518728.822227908] [odom_subscriber]: Linear Vel  -> x: -0.0037, y: -0.0002, z: 0.0000
+[INFO] [1776518728.822899441] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 1.7422
+[INFO] [1776518728.823563987] [odom_subscriber]: ---
+[INFO] [1776518728.855594528] [odom_subscriber]: Position    -> x: 1.9490, y: 0.3983, z: 0.0085
+[INFO] [1776518728.856867446] [odom_subscriber]: Orientation -> x: -0.0029, y: 0.0000, z: 0.9486, w: 0.3163
+[INFO] [1776518728.857856360] [odom_subscriber]: Linear Vel  -> x: -0.0173, y: -0.0003, z: 0.0000
+[INFO] [1776518728.859432724] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.5081
+[INFO] [1776518728.860948727] [odom_subscriber]: ---
+[INFO] [1776518728.890839008] [odom_subscriber]: Position    -> x: 1.9492, y: 0.3981, z: 0.0086
+[INFO] [1776518728.892129957] [odom_subscriber]: Orientation -> x: -0.0029, y: 0.0000, z: 0.9480, w: 0.3183
+[INFO] [1776518728.893203227] [odom_subscriber]: Linear Vel  -> x: 0.0106, y: -0.0001, z: 0.0000
+[INFO] [1776518728.894293943] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.6994
+[INFO] [1776518728.895747160] [odom_subscriber]: ---
+[INFO] [1776518728.924630716] [odom_subscriber]: Position    -> x: 1.9489, y: 0.3983, z: 0.0086
+[INFO] [1776518728.925598409] [odom_subscriber]: Orientation -> x: -0.0028, y: 0.0000, z: 0.9434, w: 0.3316
+[INFO] [1776518728.926439396] [odom_subscriber]: Linear Vel  -> x: 0.0142, y: -0.0007, z: 0.0000
+[INFO] [1776518728.927190415] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.6513
+[INFO] [1776518728.928584753] [odom_subscriber]: ---
+[INFO] [1776518728.958782540] [odom_subscriber]: Position    -> x: 1.9488, y: 0.3984, z: 0.0086
+[INFO] [1776518728.959418311] [odom_subscriber]: Orientation -> x: -0.0029, y: 0.0001, z: 0.9430, w: 0.3327
+[INFO] [1776518728.959890889] [odom_subscriber]: Linear Vel  -> x: 0.0014, y: -0.0009, z: 0.0000
+[INFO] [1776518728.960324289] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.4148
+[INFO] [1776518728.960806981] [odom_subscriber]: ---
+[INFO] [1776518728.993570158] [odom_subscriber]: Position    -> x: 1.9488, y: 0.3984, z: 0.0085
+[INFO] [1776518728.993988722] [odom_subscriber]: Orientation -> x: -0.0029, y: 0.0001, z: 0.9455, w: 0.3255
+[INFO] [1776518728.994310621] [odom_subscriber]: Linear Vel  -> x: -0.0008, y: 0.0002, z: 0.0000
+[INFO] [1776518728.994740489] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.2545
+[INFO] [1776518728.995135116] [odom_subscriber]: ---
+[INFO] [1776518729.026534947] [odom_subscriber]: Position    -> x: 1.9488, y: 0.3984, z: 0.0085
+[INFO] [1776518729.027107165] [odom_subscriber]: Orientation -> x: -0.0029, y: 0.0002, z: 0.9451, w: 0.3269
+[INFO] [1776518729.027443361] [odom_subscriber]: Linear Vel  -> x: 0.0000, y: -0.0006, z: 0.0000
+[INFO] [1776518729.027729921] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.3007
+[INFO] [1776518729.028010181] [odom_subscriber]: ---
+[INFO] [1776518729.061934589] [odom_subscriber]: Position    -> x: 1.9488, y: 0.3984, z: 0.0085
+[INFO] [1776518729.062685384] [odom_subscriber]: Orientation -> x: -0.0029, y: 0.0003, z: 0.9438, w: 0.3305
+[INFO] [1776518729.063509778] [odom_subscriber]: Linear Vel  -> x: 0.0007, y: -0.0002, z: 0.0000
+[INFO] [1776518729.064248963] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0595
+[INFO] [1776518729.064870046] [odom_subscriber]: ---
+[INFO] [1776518729.095795937] [odom_subscriber]: Position    -> x: 1.9488, y: 0.3984, z: 0.0085
+[INFO] [1776518729.096731659] [odom_subscriber]: Orientation -> x: -0.0030, y: 0.0003, z: 0.9444, w: 0.3288
+[INFO] [1776518729.097469930] [odom_subscriber]: Linear Vel  -> x: -0.0001, y: -0.0010, z: 0.0000
+[INFO] [1776518729.098108517] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.1834
+[INFO] [1776518729.098702359] [odom_subscriber]: ---
+[INFO] [1776518729.129131438] [odom_subscriber]: Position    -> x: 1.9488, y: 0.3984, z: 0.0085
+[INFO] [1776518729.129663836] [odom_subscriber]: Orientation -> x: -0.0030, y: 0.0004, z: 0.9449, w: 0.3272
+[INFO] [1776518729.130118511] [odom_subscriber]: Linear Vel  -> x: -0.0002, y: -0.0000, z: 0.0000
+[INFO] [1776518729.130546887] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0159
+[INFO] [1776518729.130866845] [odom_subscriber]: ---
+[INFO] [1776518729.163864125] [odom_subscriber]: Position    -> x: 1.9488, y: 0.3984, z: 0.0085
+[INFO] [1776518729.165008645] [odom_subscriber]: Orientation -> x: -0.0030, y: 0.0005, z: 0.9445, w: 0.3286
+[INFO] [1776518729.165876519] [odom_subscriber]: Linear Vel  -> x: 0.0002, y: -0.0001, z: 0.0000
+[INFO] [1776518729.166393579] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0976
+[INFO] [1776518729.166744829] [odom_subscriber]: ---
+[INFO] [1776518729.198210996] [odom_subscriber]: Position    -> x: 1.9488, y: 0.3984, z: 0.0085
+[INFO] [1776518729.199534938] [odom_subscriber]: Orientation -> x: -0.0030, y: 0.0006, z: 0.9443, w: 0.3291
+[INFO] [1776518729.200797469] [odom_subscriber]: Linear Vel  -> x: 0.0002, y: -0.0010, z: 0.0000
+[INFO] [1776518729.201466985] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0347
+[INFO] [1776518729.201829511] [odom_subscriber]: ---
+[INFO] [1776518729.231761433] [odom_subscriber]: Position    -> x: 1.9488, y: 0.3984, z: 0.0085
+[INFO] [1776518729.232782720] [odom_subscriber]: Orientation -> x: -0.0029, y: 0.0006, z: 0.9446, w: 0.3282
+[INFO] [1776518729.233785317] [odom_subscriber]: Linear Vel  -> x: -0.0002, y: -0.0002, z: 0.0000
+[INFO] [1776518729.234875687] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0460
+[INFO] [1776518729.235792142] [odom_subscriber]: ---
+[INFO] [1776518729.265681790] [odom_subscriber]: Position    -> x: 1.9488, y: 0.3984, z: 0.0085
+[INFO] [1776518729.266686142] [odom_subscriber]: Orientation -> x: -0.0029, y: 0.0007, z: 0.9446, w: 0.3281
+[INFO] [1776518729.267576838] [odom_subscriber]: Linear Vel  -> x: -0.0001, y: -0.0008, z: 0.0000
+[INFO] [1776518729.268454250] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0302
+[INFO] [1776518729.269625077] [odom_subscriber]: ---
+[INFO] [1776518729.299620678] [odom_subscriber]: Position    -> x: 1.9488, y: 0.3984, z: 0.0085
+[INFO] [1776518729.300431317] [odom_subscriber]: Orientation -> x: -0.0028, y: 0.0008, z: 0.9444, w: 0.3286
+[INFO] [1776518729.301209831] [odom_subscriber]: Linear Vel  -> x: 0.0001, y: -0.0008, z: 0.0000
+[INFO] [1776518729.302088697] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0173
+[INFO] [1776518729.302911920] [odom_subscriber]: ---
+[INFO] [1776518729.333682748] [odom_subscriber]: Position    -> x: 1.9488, y: 0.3984, z: 0.0085
+[INFO] [1776518729.334700590] [odom_subscriber]: Orientation -> x: -0.0027, y: 0.0009, z: 0.9445, w: 0.3285
+[INFO] [1776518729.335750227] [odom_subscriber]: Linear Vel  -> x: 0.0000, y: -0.0008, z: 0.0000
+[INFO] [1776518729.336756424] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0221
+[INFO] [1776518729.337742314] [odom_subscriber]: ---
+[INFO] [1776518729.368061996] [odom_subscriber]: Position    -> x: 1.9489, y: 0.3984, z: 0.0085
+[INFO] [1776518729.368779098] [odom_subscriber]: Orientation -> x: -0.0027, y: 0.0009, z: 0.9446, w: 0.3283
+[INFO] [1776518729.369494970] [odom_subscriber]: Linear Vel  -> x: 0.0001, y: -0.0008, z: 0.0000
+[INFO] [1776518729.370007294] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0048
+[INFO] [1776518729.370638942] [odom_subscriber]: ---
+[INFO] [1776518729.401633030] [odom_subscriber]: Position    -> x: 1.9489, y: 0.3984, z: 0.0085
+[INFO] [1776518729.402639692] [odom_subscriber]: Orientation -> x: -0.0026, y: 0.0010, z: 0.9445, w: 0.3284
+[INFO] [1776518729.403583573] [odom_subscriber]: Linear Vel  -> x: 0.0002, y: -0.0009, z: 0.0000
+[INFO] [1776518729.404591314] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0127
+[INFO] [1776518729.405505019] [odom_subscriber]: ---
+[INFO] [1776518729.435828453] [odom_subscriber]: Position    -> x: 1.9489, y: 0.3984, z: 0.0085
+[INFO] [1776518729.436532596] [odom_subscriber]: Orientation -> x: -0.0026, y: 0.0011, z: 0.9445, w: 0.3285
+[INFO] [1776518729.437243892] [odom_subscriber]: Linear Vel  -> x: 0.0000, y: -0.0008, z: 0.0000
+[INFO] [1776518729.438217747] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0014
+[INFO] [1776518729.439181471] [odom_subscriber]: ---
+[INFO] [1776518729.469905747] [odom_subscriber]: Position    -> x: 1.9489, y: 0.3984, z: 0.0085
+[INFO] [1776518729.470834127] [odom_subscriber]: Orientation -> x: -0.0025, y: 0.0012, z: 0.9445, w: 0.3284
+[INFO] [1776518729.471435451] [odom_subscriber]: Linear Vel  -> x: -0.0001, y: -0.0007, z: 0.0000
+[INFO] [1776518729.472002672] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0071
+[INFO] [1776518729.472731358] [odom_subscriber]: ---
+[INFO] [1776518729.504076100] [odom_subscriber]: Position    -> x: 1.9489, y: 0.3984, z: 0.0086
+[INFO] [1776518729.505516546] [odom_subscriber]: Orientation -> x: -0.0025, y: 0.0012, z: 0.9445, w: 0.3284
+[INFO] [1776518729.506943124] [odom_subscriber]: Linear Vel  -> x: 0.0000, y: 0.0000, z: 0.0000
+[INFO] [1776518729.508295637] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0023
+[INFO] [1776518729.509802527] [odom_subscriber]: ---
+[INFO] [1776518729.538222604] [odom_subscriber]: Position    -> x: 1.9489, y: 0.3984, z: 0.0085
+[INFO] [1776518729.539216724] [odom_subscriber]: Orientation -> x: -0.0025, y: 0.0013, z: 0.9445, w: 0.3284
+[INFO] [1776518729.540026297] [odom_subscriber]: Linear Vel  -> x: -0.0002, y: -0.0006, z: 0.0000
+[INFO] [1776518729.540839889] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0030
+[INFO] [1776518729.541270658] [odom_subscriber]: ---
+[INFO] [1776518729.571294945] [odom_subscriber]: Position    -> x: 1.9489, y: 0.3984, z: 0.0085
+[INFO] [1776518729.571903755] [odom_subscriber]: Orientation -> x: -0.0025, y: 0.0014, z: 0.9445, w: 0.3284
+[INFO] [1776518729.572371714] [odom_subscriber]: Linear Vel  -> x: 0.0000, y: -0.0001, z: 0.0000
+[INFO] [1776518729.572810395] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0023
+[INFO] [1776518729.573240467] [odom_subscriber]: ---
+[INFO] [1776518729.606438669] [odom_subscriber]: Position    -> x: 1.9489, y: 0.3984, z: 0.0085
+[INFO] [1776518729.607497287] [odom_subscriber]: Orientation -> x: -0.0025, y: 0.0015, z: 0.9445, w: 0.3284
+[INFO] [1776518729.608363060] [odom_subscriber]: Linear Vel  -> x: -0.0003, y: -0.0006, z: 0.0000
+[INFO] [1776518729.609148519] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0012
+[INFO] [1776518729.609772859] [odom_subscriber]: ---
+[INFO] [1776518729.640035190] [odom_subscriber]: Position    -> x: 1.9489, y: 0.3984, z: 0.0085
+[INFO] [1776518729.641184834] [odom_subscriber]: Orientation -> x: -0.0025, y: 0.0016, z: 0.9445, w: 0.3284
+[INFO] [1776518729.642383322] [odom_subscriber]: Linear Vel  -> x: -0.0005, y: -0.0007, z: 0.0000
+[INFO] [1776518729.643598899] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0013
+[INFO] [1776518729.644787518] [odom_subscriber]: ---
+[INFO] [1776518729.675720040] [odom_subscriber]: Position    -> x: 1.9489, y: 0.3984, z: 0.0085
+[INFO] [1776518729.677091096] [odom_subscriber]: Orientation -> x: -0.0025, y: 0.0017, z: 0.9445, w: 0.3284
+[INFO] [1776518729.678244767] [odom_subscriber]: Linear Vel  -> x: 0.0001, y: 0.0000, z: 0.0000
+[INFO] [1776518729.679442513] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0003
+[INFO] [1776518729.680485015] [odom_subscriber]: ---
+[INFO] [1776518729.710310221] [odom_subscriber]: Position    -> x: 1.9489, y: 0.3984, z: 0.0085
+[INFO] [1776518729.711559205] [odom_subscriber]: Orientation -> x: -0.0025, y: 0.0017, z: 0.9445, w: 0.3284
+[INFO] [1776518729.712667085] [odom_subscriber]: Linear Vel  -> x: -0.0004, y: -0.0005, z: 0.0000
+[INFO] [1776518729.713656854] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0009
+[INFO] [1776518729.714618649] [odom_subscriber]: ---
+[INFO] [1776518729.744481242] [odom_subscriber]: Position    -> x: 1.9489, y: 0.3984, z: 0.0085
+[INFO] [1776518729.745083817] [odom_subscriber]: Orientation -> x: -0.0025, y: 0.0018, z: 0.9445, w: 0.3284
+[INFO] [1776518729.745571169] [odom_subscriber]: Linear Vel  -> x: 0.0001, y: 0.0000, z: 0.0000
+[INFO] [1776518729.746009127] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0000
+[INFO] [1776518729.746467165] [odom_subscriber]: ---
+[INFO] [1776518729.777491064] [odom_subscriber]: Position    -> x: 1.9489, y: 0.3984, z: 0.0085
+[INFO] [1776518729.778086771] [odom_subscriber]: Orientation -> x: -0.0024, y: 0.0019, z: 0.9445, w: 0.3284
+[INFO] [1776518729.778611300] [odom_subscriber]: Linear Vel  -> x: -0.0003, y: -0.0004, z: 0.0000
+[INFO] [1776518729.779100784] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0005
+[INFO] [1776518729.779595719] [odom_subscriber]: ---
+[INFO] [1776518729.811858565] [odom_subscriber]: Position    -> x: 1.9489, y: 0.3984, z: 0.0085
+[INFO] [1776518729.813051400] [odom_subscriber]: Orientation -> x: -0.0024, y: 0.0019, z: 0.9445, w: 0.3284
+[INFO] [1776518729.814188100] [odom_subscriber]: Linear Vel  -> x: -0.0000, y: -0.0000, z: 0.0000
+[INFO] [1776518729.815422648] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0002
+[INFO] [1776518729.816626419] [odom_subscriber]: ---
+[INFO] [1776518729.845829950] [odom_subscriber]: Position    -> x: 1.9489, y: 0.3984, z: 0.0085
+[INFO] [1776518729.847038925] [odom_subscriber]: Orientation -> x: -0.0024, y: 0.0019, z: 0.9445, w: 0.3284
+[INFO] [1776518729.847998150] [odom_subscriber]: Linear Vel  -> x: -0.0002, y: -0.0003, z: 0.0000
+[INFO] [1776518729.848626827] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0003
+[INFO] [1776518729.849130348] [odom_subscriber]: ---
+[INFO] [1776518729.880825440] [odom_subscriber]: Position    -> x: 1.9489, y: 0.3984, z: 0.0085
+[INFO] [1776518729.881346086] [odom_subscriber]: Orientation -> x: -0.0024, y: 0.0020, z: 0.9445, w: 0.3284
+[INFO] [1776518729.881774693] [odom_subscriber]: Linear Vel  -> x: 0.0000, y: 0.0000, z: 0.0000
+[INFO] [1776518729.882412062] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0002
+[INFO] [1776518729.882844313] [odom_subscriber]: ---
+[INFO] [1776518729.915724085] [odom_subscriber]: Position    -> x: 1.9489, y: 0.3984, z: 0.0085
+[INFO] [1776518729.917100950] [odom_subscriber]: Orientation -> x: -0.0023, y: 0.0020, z: 0.9445, w: 0.3284
+[INFO] [1776518729.918418052] [odom_subscriber]: Linear Vel  -> x: -0.0002, y: -0.0002, z: 0.0000
+[INFO] [1776518729.919866960] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0001
+[INFO] [1776518729.921546003] [odom_subscriber]: ---
+[INFO] [1776518729.950291630] [odom_subscriber]: Position    -> x: 1.9489, y: 0.3984, z: 0.0085
+[INFO] [1776518729.951864403] [odom_subscriber]: Orientation -> x: -0.0023, y: 0.0020, z: 0.9445, w: 0.3284
+[INFO] [1776518729.953329548] [odom_subscriber]: Linear Vel  -> x: -0.0000, y: -0.0000, z: 0.0000
+[INFO] [1776518729.955038489] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0001
+[INFO] [1776518729.955952561] [odom_subscriber]: ---
+[INFO] [1776518729.983267486] [odom_subscriber]: Position    -> x: 1.9489, y: 0.3984, z: 0.0085
+[INFO] [1776518729.983837430] [odom_subscriber]: Orientation -> x: -0.0023, y: 0.0020, z: 0.9445, w: 0.3284
+[INFO] [1776518729.984180257] [odom_subscriber]: Linear Vel  -> x: -0.0001, y: -0.0002, z: 0.0000
+[INFO] [1776518729.984449754] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0000
+[INFO] [1776518729.984879457] [odom_subscriber]: ---
+[INFO] [1776518730.016830187] [odom_subscriber]: Position    -> x: 1.9489, y: 0.3984, z: 0.0085
+[INFO] [1776518730.017190975] [odom_subscriber]: Orientation -> x: -0.0023, y: 0.0020, z: 0.9445, w: 0.3284
+[INFO] [1776518730.017437645] [odom_subscriber]: Linear Vel  -> x: -0.0001, y: -0.0001, z: 0.0000
+[INFO] [1776518730.017773913] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0000
+[INFO] [1776518730.018032823] [odom_subscriber]: ---
+[INFO] [1776518730.051939949] [odom_subscriber]: Position    -> x: 1.9489, y: 0.3984, z: 0.0085
+[INFO] [1776518730.052810437] [odom_subscriber]: Orientation -> x: -0.0023, y: 0.0020, z: 0.9445, w: 0.3284
+[INFO] [1776518730.053682473] [odom_subscriber]: Linear Vel  -> x: -0.0001, y: -0.0001, z: 0.0000
+[INFO] [1776518730.054544302] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0000
+[INFO] [1776518730.055443117] [odom_subscriber]: ---
+[INFO] [1776518730.086023902] [odom_subscriber]: Position    -> x: 1.9489, y: 0.3984, z: 0.0085
+[INFO] [1776518730.086595947] [odom_subscriber]: Orientation -> x: -0.0023, y: 0.0020, z: 0.9445, w: 0.3284
+[INFO] [1776518730.087013344] [odom_subscriber]: Linear Vel  -> x: 0.0000, y: 0.0000, z: 0.0000
+[INFO] [1776518730.087421443] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0000
+[INFO] [1776518730.087795248] [odom_subscriber]: ---
+[INFO] [1776518730.119242620] [odom_subscriber]: Position    -> x: 1.9489, y: 0.3984, z: 0.0085
+[INFO] [1776518730.119766977] [odom_subscriber]: Orientation -> x: -0.0023, y: 0.0020, z: 0.9445, w: 0.3284
+[INFO] [1776518730.120182928] [odom_subscriber]: Linear Vel  -> x: 0.0000, y: 0.0000, z: 0.0000
+[INFO] [1776518730.120620161] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0000
+[INFO] [1776518730.121156908] [odom_subscriber]: ---
+[INFO] [1776518730.153601377] [odom_subscriber]: Position    -> x: 1.9489, y: 0.3984, z: 0.0085
+[INFO] [1776518730.154329566] [odom_subscriber]: Orientation -> x: -0.0023, y: 0.0020, z: 0.9445, w: 0.3284
+[INFO] [1776518730.155064090] [odom_subscriber]: Linear Vel  -> x: -0.0000, y: -0.0001, z: 0.0000
+[INFO] [1776518730.155720194] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0000
+[INFO] [1776518730.156185074] [odom_subscriber]: ---
+[INFO] [1776518730.189863917] [odom_subscriber]: Position    -> x: 1.9489, y: 0.3984, z: 0.0085
+[INFO] [1776518730.191526759] [odom_subscriber]: Orientation -> x: -0.0023, y: 0.0019, z: 0.9445, w: 0.3284
+[INFO] [1776518730.192996711] [odom_subscriber]: Linear Vel  -> x: 0.0000, y: 0.0000, z: 0.0000
+[INFO] [1776518730.194417497] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0000
+[INFO] [1776518730.195733256] [odom_subscriber]: ---
+[INFO] [1776518730.223493059] [odom_subscriber]: Position    -> x: 1.9489, y: 0.3984, z: 0.0085
+[INFO] [1776518730.224225667] [odom_subscriber]: Orientation -> x: -0.0024, y: 0.0019, z: 0.9445, w: 0.3284
+[INFO] [1776518730.224762317] [odom_subscriber]: Linear Vel  -> x: -0.0000, y: -0.0000, z: 0.0000
+[INFO] [1776518730.225385987] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: -0.0000
+[INFO] [1776518730.225755634] [odom_subscriber]: ---
+[INFO] [1776518730.258856070] [odom_subscriber]: Position    -> x: 1.9489, y: 0.3984, z: 0.0085
+[INFO] [1776518730.260341830] [odom_subscriber]: Orientation -> x: -0.0024, y: 0.0019, z: 0.9445, w: 0.3284
+[INFO] [1776518730.261832252] [odom_subscriber]: Linear Vel  -> x: -0.0000, y: -0.0000, z: 0.0000
+[INFO] [1776518730.263296271] [odom_subscriber]: Angular Vel -> x: 0.0000, y: 0.0000, z: 0.0000
+[INFO] [1776518730.264713566] [odom_subscriber]: ---
