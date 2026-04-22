@@ -1,0 +1,132 @@
+Lab 6 Observations — LiDAR-Based Reactive Navigation
+MCT-454L Mobile Robotics
+Student: Muhammad Anss
+Date: April 22, 2026
+
+======================================================
+1. ROBOT BEHAVIOR NEAR OBSTACLES
+======================================================
+
+During testing in scan_only mode, the node successfully extracted
+directional distances in real time. Observed readings in the
+TurtleBot3 World environment:
+
+  - Front distance: ~0.88–0.91 m (steady state, robot stationary)
+  - Left distance:  ~1.16–1.20 m
+  - Right distance: ~0.60–0.63 m
+
+When running in full (behavior sequencing) mode, the robot
+correctly detected obstacles as it approached them. As Front distance
+decreased below the FRONT_THRESHOLD (initially 0.5 m, later tuned to
+0.2 m), the avoidance behavior activated and the robot rotated toward
+the side with greater clearance.
+
+At FRONT_THRESHOLD = 0.2 m:
+  - The robot was observed to cruise forward even at Front = 0.20–0.24 m
+    (very close to the wall), and only briefly triggered avoidance.
+  - This gave a tighter path but risked the robot getting too close
+    to walls before reacting.
+
+At FRONT_THRESHOLD = 0.5 m (original):
+  - Avoidance triggered much earlier, giving the robot more room to turn.
+  - However, this caused the avoidance to activate in open areas when
+    walls were still far away, reducing forward progress.
+
+======================================================
+2. OSCILLATIONS AND INSTABILITY
+======================================================
+
+Significant oscillation was observed during the obstacle avoidance
+behavior when FRONT_THRESHOLD = 0.5 m:
+
+  - The robot repeatedly switched between "turning LEFT" and
+    "turning RIGHT" every 200 ms. This occurred because np.min()
+    picked the single nearest point in each sector, and sensor noise
+    caused the minimum value to alternate between left and right sectors
+    frame-by-frame.
+
+  - Example from logs (mode: avoid, threshold 0.5 m):
+      Front: 0.48 m → turning LEFT
+      Front: 0.47 m → turning RIGHT
+      Front: 0.48 m → turning LEFT
+      (repeating indefinitely)
+
+  - The robot was essentially spinning in place rather than
+    escaping the obstacle.
+
+** SPECIFIC CASE — Two-Pillar Scenario (FRONT_THRESHOLD = 0.5 m) **
+
+  The most notable instability occurred in the TurtleBot3 World when
+  the robot entered the gap between two pillars. At this threshold:
+
+  - Both pillars were simultaneously detected within 0.5 m — one
+    appearing on the left sector, the other on the right.
+  - The left and right minimum distances were nearly equal and flipped
+    between frames due to LiDAR noise.
+  - The robot could not commit to either direction and entered a
+    continuous left-right spin, unable to exit the gap.
+
+  This was clearly visible in the Gazebo simulation — the robot would
+  rotate a few degrees left, then immediately reverse to the right,
+  oscillating in place indefinitely between the two pillars.
+
+  Root cause: When both sides are equally blocked, np.min() on noisy
+  data produces no stable "winning" side, so the decision flips every
+  scan cycle (~200 ms). The robot never moves forward or fully turns.
+
+  Fix applied: Reducing FRONT_THRESHOLD to 0.2 m meant the pillars
+  were not triggering avoidance until the robot was very close, allowing
+  it to pass through the gap in cruise mode before avoidance kicked in.
+  Using np.nanmedian() instead of np.min() further stabilized the
+  sector readings so the turn direction was consistent once avoidance
+  did activate.
+
+Root cause: Using np.min() is highly sensitive to single noisy readings.
+Fix applied: Replacing np.min() with np.nanmedian() smooths out
+noise and produces stable sector distances that don't flip between
+frames.
+
+Wall-follow mode was more stable — the proportional controller
+(WALL_KP = 1.5) produced smooth correction for most cases,
+with minor angular oscillation (ang_z toggling between ±0.50)
+when the right wall had gaps or sharp corners.
+
+======================================================
+3. EFFECT OF CHANGING THRESHOLD VALUES
+======================================================
+
+FRONT_THRESHOLD changed from 0.5 m → 0.2 m:
+  - At 0.5 m: Robot reacted early, large safety margin, but oscillated
+    frequently in moderately open spaces (e.g., the world corridors).
+  - At 0.2 m: Robot navigated much closer to obstacles before reacting.
+    Fewer false triggers in open space. However, reaction time was very
+    tight and the robot occasionally cruised into walls before avoidance
+    activated (logs showed "Path clear" at Front = 0.20–0.21 m).
+  - Recommended value: 0.35 m as a balance between safety and progress.
+
+SIDE_THRESHOLD changed from 0.5 m → 0.2 m:
+  - At 0.5 m: Wall-follow activated far from the wall and kept the
+    robot roughly centered in corridors.
+  - At 0.2 m: Wall-follow only activated when very close to the right
+    wall. The robot mostly cruised forward in "clear" mode and rarely
+    entered wall-follow mode even in corridors.
+  - This reduced the effectiveness of Task 4 behavior.
+
+======================================================
+4. ADDITIONAL OBSERVATIONS
+======================================================
+
+- The shutdown error ("publisher's context is invalid") was consistently
+  observed when pressing Ctrl+C. This is a known ROS 2 Humble behavior
+  where rclpy shuts down the context before the finally block can
+  publish the stop command. It does NOT affect runtime behavior.
+
+- The wall_follow mode demonstrated clear proportional control:
+  when right_dist < 0.5 m, angular correction was positive (steer away);
+  when right_dist > 0.5 m, correction was negative (steer toward wall).
+  The WALL_KP = 1.5 gain worked well for gentle curves but oscillated
+  at sharp corners.
+
+- The behavior sequencing mode (full) correctly prioritized:
+    Priority 1 (Avoidance) > Priority 2 (Wall-follow) > Priority 3 (Cruise)
+  and seamlessly transitioned between behaviors based on sensor readings.
