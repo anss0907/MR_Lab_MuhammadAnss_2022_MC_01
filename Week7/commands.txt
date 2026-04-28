@@ -1,0 +1,8 @@
+ros2 launch turtlebot3_gazebo turtlebot3_world.launch.py
+
+ros2 launch turtlebot3_navigation2 navigation2.launch.py  use_sim_time:=True  map:=$HOME/MR_Lab_MuhammadAnss/Week5/maps/my_map.yaml # to launch nav2
+
+
+ros2 run turtlebot3_teleop teleop_keyboard
+
+ros2 action send_goal /navigate_to_pose nav2_msgs/action/NavigateToPose "{pose: {header: {frame_id: 'map'}, pose: {position: {x: 1.0, y: 0.5, z: 0.0}, orientation: {x: 0.0, y: 0.0, z: 0.0, w: 1.0}}}}"
