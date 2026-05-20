@@ -1,0 +1,44 @@
+ros2 run gazebo_ros spawn_entity.py -entity my_red_cylinder -x 1.5 -y -0.5 -z 0.5 -stdin <<EOF
+<?xml version="1.0" ?>
+<sdf version="1.6">
+  <model name="my_red_cylinder2">
+    <static>true</static>
+    <link name="link">
+      <collision name="collision">
+        <geometry><cylinder><radius>0.2</radius><length>1.0</length></cylinder></geometry>
+      </collision>
+      <visual name="visual">
+        <geometry><cylinder><radius>0.2</radius><length>1.0</length></cylinder></geometry>
+        <material>
+          <ambient>1 0 0 1</ambient>
+          <diffuse>1 0 0 1</diffuse>
+        </material>
+      </visual>
+    </link>
+  </model>
+</sdf>
+EOF
+
+
+
+ros2 run gazebo_ros spawn_entity.py -entity my_blue_box -x 1.5 -y 1.0 -z 0.5 -stdin <<EOF
+<?xml version="1.0" ?>
+<sdf version="1.6">
+  <model name="my_blue_box">
+    <static>true</static>
+    <link name="link">
+      <collision name="collision">
+        <geometry><box><size>0.5 0.5 0.5</size></box></geometry>
+      </collision>
+      <visual name="visual">
+        <geometry><box><size>0.5 0.5 0.5</size></box></geometry>
+        <material>
+          <ambient>0 0 1 1</ambient>
+          <diffuse>0 0 1 1</diffuse>
+        </material>
+      </visual>
+    </link>
+  </model>
+</sdf>
+EOF
+
